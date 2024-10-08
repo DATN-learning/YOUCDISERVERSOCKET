@@ -1,0 +1,2174 @@
+[
+    {
+        "text": "Tập hợp A gồm các chữ cái khác nhau trong cụm từ “KHAI GIANG” có số phần tử là:",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Viết tập hợp A = { 1;2;3;4} dưới dạng chỉ ra tính chất đặc trưng của tập hợp đó:",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Cho tập hợp A = { a;b;1;4}. Chọn phương án đúng trong các đáp án dưới đây:",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Cho tập hợp A = {2;4;6;8} và B = {1;2;3;4}. Chọn phương án đúng trong các đáp án dưới đây:",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Các viết tập hợp nào sau đây đúng?",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Cho B = {2; 3; 4; 5}. Chọn đáp án sai trong các đáp án sau?",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Viết tập hợp A các số tự nhiên lớn hơn 5 và nhỏ hơn 10.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Viết tập hợp P các chữ cái khác nhau trong cụm từ: “HOC SINH”",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Cho tập hợp A = {1; 2; 3; 4} và tập hợp B = {3; 4; 5}. Tập hợp C gồm các phần tử thuộc tập A nhưng không thuộc tập hợp B là?",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Cho tập hợp A = {1; 2; 3; 4} và tập hợp B = {3; 4; 5}. Tập hợp C gồm các phần tử thuộc tập A lẫn tập hợp B là?",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tập hợp A = {x ∈ ℕ|22 < x ≤ 27} dưới dạng liệt kê các phần tử là?",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tập hợp P gồm các số tự nhiên lớn hơn 50 và không lớn hơn 57. Kết luận nào sau đây sai?",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Cho hình vẽ sau",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Lũy thừa bậc n của số tự nhiên a được viết là:",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Cách đọc 22  nào là sai?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Hãy chỉ ra cơ số của lũy thừa 312",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Khi nhân hai lũy thừa cùng cơ số: am.an. Kết quả là:",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Khi chia hai lũy thừa cùng cơ số (khác 0) thì:",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Viết kết quả của phép tính sau dưới dạng một lũy thừa: 5.5.5.5?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Lập phương của 7 được viết như thế nào?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "16 là lũy thừa của số tự nhiên nào, và có số mũ bằng bao nhiêu?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính 2^3?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Viết tích sau dưới dạng một lũy thừa: 5.5.5.25",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính 3^4.5^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Viết tổng sau dưới dạng bình phương của một số tự nhiên: 1 + 3 + 5 +7.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Kết quả của phép tính: 7^19.7^2:7^21",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Viết số 902 thành tổng giá trị các chữ số của nó bằng cách dùng các lũy thừa của 10.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Cho 2^10 = 1 024. Hãy tính 2^11.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm số n thỏa mãn 4^n = 4^3.4^5.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm số tự nhiên x, biết: x^2 = 16.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Lũy thừa nào sau đây biểu diễn thương 178:173?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm số tự nhiên n thỏa mãn 25^n:25^3=25^5?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Phép chia 12^8:12^5 được kết quả dưới dạng lũy thừa gọn nhất là?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Rút gọn phép chia a^12:a^6, (a ≠ 0) ta được kết quả dưới dạng lũy thừa gọn nhất là?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm số tự nhiên n thỏa mãn 5^9:5^3=5^n?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Cho A =  7^8 : 7. Viết  A dưới dạng luỹ thừa:",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Viết kết quả của phép tính 3^6 : 3^4dưới dạng một luỹ thừa:",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Cho A =  7^8:  7. Viết  A dưới dạng luỹ thừa:",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Số tự nhiên n thỏa mãn 2^n=4^2 là:",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Trong các khẳng định sau, khẳng định nào sai?",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Số nguyên tố có mấy ước?",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Hợp số là",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Cho các số sau: 13, 18, 19, 21. Có bao nhiêu số nguyên tố trong các số trên. ",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Số nào dưới đây là hợp số?",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Kết quả của phép tính nào sau đây là số nguyên tố.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Cho các số 21; 71; 77; 101. Chọn phát biểu đúng trong các phát biểu sau?",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Trong các khẳng định sau, khẳng định nào sai?",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Viết tập hợp A các số là hợp số trong các số sau: 1 431; 635; 119; 73.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Có bao nhiêu số nguyên tố có hai chữ số mà chữ số hàng đơn vị là 7.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Số tự nhiên có 2 chữ số khác nhau nhỏ nhất chia hết cho các số nguyên tố nhỏ hơn hoặc bằng 5 là:",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Cho hai số A = 11 . 12 . 13 + 14 . 15 và B = 11 . 13. 15 + 17 . 19 . 23. Chọn đáp án đúng trong các đáp án sau: ",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Cho tập Ư(8) = {1; 2; 4; 8} và Ư(20) = {1; 2; 4; 5; 10; 20}. Tập hợp ƯC(8; 20) là:",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Sắp xếp các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1 là:",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Tìm ƯCLN(90;10)",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Tìm ƯCLN(90;1330)",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Tìm ƯCLN(9330;10)",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Phân số a/b được gọi là phân số tối giản khi",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Cho tập ƯC(24; 28) = {1; 2; 4}. Vậy ƯCLN(24; 28) là: ",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Tìm ƯCLN(72, 63, 1):",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Muốn tìm tập hợp ước chung chung của hai hay nhiều số tự nhiên, ta thực hiện:",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Nếu 9 là số lớn nhất sao cho a ⋮ 9 và a ⋮ 9 thì 9 là ………… của a và b. Chọn câu trả lời đúng nhất. ",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Tìm ƯCLN(36, 84)",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Biết UCLN(75, 105) = 15. Hãy tìm ƯC(15, 105).",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Tìm UCLN(56, 140, 168).",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Tìm tất cả các số tự nhiên khác 0, không vượt quá 60 sao cho ƯCLN của hai số đó là 17. ",
+        "category": "Ước chung"
+    },
+    {
+        "text": "Ông M đang nợ ngân hàng 200 triệu đồng. Số nguyên nào sau đây biểu diễn số tiền ông M đang có?",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Cho bảng nhiệt độ của các thành phố lớn của nước ta:",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Hai nhiệt kế dưới đây chỉ bao nhiêu độ C?",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Cho hình vẽ sau và cho biết điểm M biểu diễn cho số nguyên nào?",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Cách đọc số - 12 304 nào sau đây là đúng.",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Tập hợp số nguyên được kí hiệu là: ",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Hình vẽ nào sau đây điểm N biểu diễn đúng điểm - 6 trên trục số?",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Phát biểu nào sau đây là sai: ",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Số nguyên âm có hai chữ số nhỏ nhất là:",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Hãy sắp xếp số sau theo thứ tự tăng dần: -3; +4; 7; -7; 0; -1.",
+        "category": "Số nguyên"
+    },
+    {
+        "text": " Liệt kê các phần tử của mỗi tập hợp: P = {x ∈ ℕ | -2 ≤ x < 4}.",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Cho tập hợp K = {0; 1; 2; 4; 5; 7; 9}. Tập hợp H là tập hợp gồm các số đối của phần tử của tập hợp K.",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Cho tập hợp J = {x ∈ ℤ | -13 < x < -12}. Phát biểu nào dưới đây là đúng",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Tìm các số nguyên x thỏa mãn – 12 < x < 13. Có bao nhiêu số nguyên như vậy?",
+        "category": "Số nguyên"
+    },
+    {
+        "text": "Kết quả của phép tính (-50) + 30 là:",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Giá trị nào của x thỏa mãn x - 589 = (-335)",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Tính (-909) + 909",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Cho các số: -16; -7; -1; 0; 2; 7 . Hai trong các số trên có tổng bằng – 5 là:",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Số nguyên nào dưới dây là kết quả của phép tính 52 + (-122)?",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Kết quả của phép tính -16 + |-27| là:",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Tổng của - 555 và số nguyên dương lớn nhất có 3 chữ số là",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Tổng của số -19091 và 999",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Viết – 17 thành tổng hai số nguyên khác dấu:",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Tổng của ( - 999) và số nguyên dương nhỏ nhất có 4 chữ số là:",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Cho x; y là hai số nguyên cùng dấu. Tính x + y biết |x+y|=2020",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Tính tổng tất cả các số nguyên có giá trị tuyệt đối nhỏ hơn 999.",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Kết quả của phép tính ( - 1453) + 786 + ( - 247) là:",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Tính tổng tất cả các số nguyên có giá trị tuyệt đối nhỏ hơn 100",
+        "category": "số nguyên"
+    },
+    {
+        "text": "Tích của hai số nguyên âm là số thế nào?",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Thực hiện phép tính sau: (-5).4",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Phép nhân có tính chất gì:",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tích của một số nguyên a bất kì với số 0 có kết quả là:",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tích của các số nguyên âm có số thừa số là số lẻ thì:",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tích của các số nguyên âm có số thừa số là số chẵn thì:",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Cho tích 213.3 = 639. Từ đó suy ra nhanh kết quả của các tích sau: (- 213).3; ",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính tổng hai tích sau: a = (-2).(-3) và c = (+3).(+2);",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Thực hiện phép tính: (-2).29 + (-2).(-99) + (-2).(-30).",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính:  (-8).(-6)(-125);  ",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Không thực hiện phép tính, hãy so sánh: (+4).(-8) với 0 ",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Thực hiện phép tính: (- 3).(- 2).(- 5). 4;     ",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính giá trị của biểu thức trong mỗi trường hợp sau: 19x với x = - 7;",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Thực hiện phép tính: (-8).(-8).(-8).(-8) – 84 + 105.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính giá trị của biểu thức trong trường hợp sau:(- 2021)abc + ab với a = -21, b = -11 và c = 0.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính một cách hợp lí: 121.(-63) + 63.(-53) – 63.26.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tìm số nguyên x thỏa mãn: (x – 6).(x – 3) = 0;",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Cho ba điểm M; N; P thẳng hàng với P nằm giữa M và N. Chọn hình vẽ đúng.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Kể tên bộ ba điểm thẳng hàng trong hình vẽ dưới đây.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Có bao nhiêu bộ ba điểm thẳng hàng trên hình vẽ sau:",
+        "category": "Điểm"
+    },
+    {
+        "text": "Có bao nhiêu bộ ba điểm thẳng hàng trong hình vẽ dưới đây?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Có bao nhiêu bộ ba điểm không thẳng hàng trong hình vẽ sau",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho 5 điểm A, B, C, D, O sao cho 3 điểm A, B, C cùng thuộc đường thẳng d; 3 điểm B, C, D thẳng hàng và 3 điểm C, D, O không thẳng hàng. Hỏi điểm nào nằm ngoài đường thẳng d?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho hình vẽ sau:Kể tên các điểm nằm giữa A và D.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho hình vẽ sau:Có bao nhiêu điểm nằm giữa N và D?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho hình vẽ sau:Số cặp điểm nằm cùng phía với điểm A là:",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho hình vẽ sau:Trên hình vẽ, điểm B nằm giữa bao nhiêu cặp điểm?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho hình vẽ sau:Trên hình vẽ, điểm B và D nằm khác phía với mấy điểm?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho hình vẽ sau:Trên hình vẽ, điểm A và B nằm cùng phía với các điểm nào?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho hình vẽ sau:Điểm A và C nằm cùng phía với điểm nào?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Cho G là một điểm thuộc đoạn thẳng HK ( G không trùng với H và K). Hỏi trong ba điểm G, H, K, điểm nào nằm giữa hai điểm còn lại?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Điểm P nằm giữa hai điểm M và N thì:",
+        "category": "Điểm"
+    },
+    {
+        "text": "A = {0; 5; 10; 15;....; 100}",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "{111; 222; 333;...; 999}",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "C = {1; 4; 7; 10;13;...; 49}",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Viết tập hợp A các số tự nhiên có hai chữ số mà tổng các chữ số bằng 5.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Viết tập hợp A các số tự nhiên có một chữ số bằng hai cách",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Cho A là tập hợp các số tự nhiên chẵn không nhỏ hơn 20 và không lớn hơn 30; B là tập hợp các số tự nhiên lớn hơn 26 và nhỏ hơn 33",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tích của 4 số tự nhiên liên tiếp là 93 024. Tìm 4 số đó",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Cần dùng bao nhiêu chữ số để đánh số trang của quyển sách Toán 6 tập I dày 130 trang?",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Tính tổng của dãy số sau: 1; 4; 7; 10; ...; 1000",
+        "category": "Toán tử"
+    },
+    {
+        "text": "a) 2.125.2002.8.5 b) 36.42 + 2.17.18 + 9.41.6",
+        "category": "Toán tử"
+    },
+    {
+        "text": "28.47 + 28.43 + 72.29 + 72.61 d) 26.54 + 52.73",
+        "category": "Toán tử"
+    },
+    {
+        "text": "2001.2002.2003.2004 + 2005.2006.2007.2008.2009",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Tìm số tự nhiên x biết:",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "720 : (x - 17) = 12 b) (x - 28) : 12 = 8",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tính nhanh: (139139 . 133 - 133133 . 139) : (2 + 4 + 6 + ... + 2002)",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Ngày 22-12-2002 (kỷ niệm ngày thành lập Quân đội nhân dân Việt Nam), rơi vào chủ nhật. Hỏi ngày 22-12-2012 rơi vào thứ mấy?",
+        "category": "Toán tử"
+    },
+    {
+        "text": " Tìm n ∈ N, biết:",
+        "category": "Tìm biến"
+    },
+    {
+        "text": " 3n = 243",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "2n = 256",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "So sánh",
+        "category": "So sánh"
+    },
+    {
+        "text": "So sánh hai số",
+        "category": "So sánh"
+    },
+    {
+        "text": "So sánh cac so ",
+        "category": "So sánh"
+    },
+    {
+        "text": "Dùng sáu chữ số 5, hãy dùng phép tính và dấu ngoặc (nếu cần) viết dãy tính có kết quả là 100.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Tổng của ba số tự nhiên liên tiếp có chia hết cho 3 không?",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Tổng của bốn số tự nhiên liên tiếp có chia hết cho 4 không?",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Tìm tất cả các số tự nhiên n để:",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "(15 + 7n) chia hết cho n",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "(n + 28) chia hết cho (n + 4)",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Có thể tìm được hai số tự nhiên a và b để: 66a + 55b = 111 011?",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Có số tự nhiên nào mà chia cho 18 dư 12, còn chia cho 6 thì dư 2 không?",
+        "category": "Tìm biến"
+    },
+    {
+        "text": " Cho số xyz chia hết cho 37. Chứng minh rằng số yzx chia hết cho 37.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Có hay không hai số tự nhiên x và y sao cho: 2002x + 5648y = 203 253?",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Từ 1 đến 1000 có bao nhiêu số chia hết cho 2, có bao nhiêu số chia hết cho 5?",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tích (n + 2002)(n + 2003) có chia hết cho 2 không? Giải thích?",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tìm x, y để số 30xy chia hết cho cả 2 và 3, và chia cho 5 dư 2",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Viết số tự nhiên nhỏ nhất có năm chữ số, tận cùng bằng 6 và chia hết cho 9.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Có bao nhiêu số có hai chữ số chia hết cho 9?",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tìm tổng các số có hai chữ số chia hết cho 9",
+        "category": "Toán tử"
+    },
+    {
+        "text": " Tìm tập hợp A các số tự nhiên x là ước của 75 và là bội của 3",
+        "category": "Tập hợp"
+    },
+    {
+        "text": " Tìm các số tự nhiên x, y sao cho: (2x + 1)(y - 5) = 12.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": ". Tìm ba số tự nhiên liên tiếp có tích bằng 19 656.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tìm số tự nhiên n biết rằng: 1 + 2 + 3 + ... + n = 1275.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tìm số chia và thương của một phép chia, biết số bị chia là 150 và số dư là 7.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Số học sinh khối 6 của một trường trong khoảng từ 120 đến 200 học sinh. Khi xếp hàng 12, hàng 18 đều thiếu 1 học sinh. Tính số học sinh đó",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Có 126 quả bóng đỏ, 198 quả bóng xanh và 144 quả bóng vàng. Hỏi số bóng trên chia cho nhiều nhất là bao nhiêu bạn để số quả bóng đỏ, bóng xanh, bóng vàng của mỗi bạn đều như nhau?",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tìm số tự nhiên n biết rằng: 1 + 2 + 3 + ... + n = 1275.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tìm hai số tự nhiên biết rằng tổng của chúng là 168, ƯCLN của chúng bằng 12 và BCNN của chúng bằng 840.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "2.125.2002.8.5",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Tìm x biết rằng 2x + 5 = 15.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho A = {1, 2, 3, 4, 5}, B = {3, 4, 5, 6, 7}. Tìm A ∩ B.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính 3^4 × 2^3.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh 5^3 và 4^4.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Điểm của đường thẳng y = 2x + 1 tại x = 3 là bao nhiêu?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Tính 12 × (-5).",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Giải phương trình log(x) + log(x-1) = 1.",
+        "category": "Log"
+    },
+    {
+        "text": "Tìm nghiệm của phương trình bậc hai: x^2 - 5x + 6 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho A = {x | 2 < x ≤ 6}, B = {x | 4 ≤ x < 8}. Tìm A ∪ B.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính tích phân của hàm số f(x) = 3x^2 + 2x từ 0 đến 1.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh sin(45°) và cos(45°).",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm tọa độ điểm cực đại của hàm số y = -x^2 + 4x - 1.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Tính tích của 7 và (-8).",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính log_2(16).",
+        "category": "Log"
+    },
+    {
+        "text": "Giải phương trình 2x + 7 = 5x - 8.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho tập hợp A = {1, 2, 3, 4, 5}. Có bao nhiêu tập con của A?",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính đạo hàm của hàm số f(x) = 5x^3 - 3x^2 + 2x - 7.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh giá trị của 3x khi x = 2 và x = -3.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Điểm giao của hai đường thẳng y = 2x + 3 và y = -x + 1 là bao nhiêu?",
+        "category": "Điểm"
+    },
+    {
+        "text": "Tính tích của (-10) và 15.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính log_10(1000).",
+        "category": "Log"
+    },
+    {
+        "text": "Giải phương trình bậc hai x^2 + 6x + 9 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho tập hợp A = {x | x là số chẵn và x < 10}. Tìm A.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính giới hạn lim(x→0) sin(x)/x.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh 2^6 và 3^4.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tính điểm cực tiểu của hàm số y = x^2 - 4x + 3.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Nhân số nguyên -25 với 4.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính log_5(25).",
+        "category": "Log"
+    },
+    {
+        "text": "Tìm nghiệm thực của phương trình bậc ba: x^3 - 6x^2 + 11x - 6 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho A = {x ∈ ℝ | x^2 - 5x + 6 ≥ 0}, B = {x ∈ ℝ | x - 2 ≤ 0}. Tìm A ∩ B.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính tích phân bất định: ∫(x^3 - 2x^2 + x) dx.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh 2^(2x) và 4^x khi x = 3.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm tọa độ điểm cực đại và cực tiểu của hàm số y = 3x^4 - 4x^3 + x^2.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Tính tích của các số nguyên từ -10 đến 10.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Giải phương trình log(x^2 - 4) = log(2x).",
+        "category": "Log"
+    },
+    {
+        "text": "Giải hệ phương trình: x + y = 10, x^2 + y^2 = 58.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho tập hợp A = {x | x là số nguyên dương lẻ và x < 15}, B = {x | x là bội số của 3}. Tìm A ∪ B.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính giới hạn lim(x→∞) (3x^2 - x + 1)/(2x^2 + 5x - 3).",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh giá trị của hàm số f(x) = x^2 - 5x + 6 tại x = 2 và x = -1.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm tọa độ điểm giao nhau của hai đường thẳng y = 2x + 1 và y = -3x + 5.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Nhân các số nguyên liên tiếp từ 5 đến 15.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính log_3(81) + log_2(16).",
+        "category": "Log"
+    },
+    {
+        "text": "Giải phương trình bậc ba: x^3 + 3x^2 - 4x - 12 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho tập hợp A = {x ∈ ℝ | 1/x > 0}, B = {x ∈ ℝ | x^2 - 4 ≤ 0}. Tìm A ∩ B.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính tích phân từ 0 đến 2 của hàm số f(x) = x^3 - 2x^2 + x.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh giá trị của hàm số g(x) = x^3 - 3x + 2 tại x = 1 và x = -2.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm điểm cực đại và cực tiểu của hàm số y = -x^4 + 4x^3 - 6x^2 + 2.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Tính tích của các số nguyên chẵn từ 2 đến 20.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Giải phương trình log_5(x) + log_5(x-2) = 1.",
+        "category": "Log"
+    },
+    {
+        "text": "Giải phương trình bậc hai: 2x^2 - 7x + 3 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho tập hợp A = {x ∈ ℝ | x^2 + x - 6 ≤ 0}. Tìm tập hợp A.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính tích phân xác định của hàm số f(x) = 4x - x^2 từ 0 đến 4.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh giá trị của 3^x và 2^(2x) khi x = 5.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm tọa độ điểm cực tiểu của hàm số y = x^3 - 6x^2 + 9x - 2.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Nhân các số nguyên lẻ từ 1 đến 19.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Giải phương trình log_2(x^2 - 3x + 2) = 3.",
+        "category": "Log"
+    },
+    {
+        "text": "Giải phương trình 2x^2 + 5x - 3 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho tập hợp A = {x | x^2 - 4x ≥ 0}, B = {x | x - 3 ≤ 0}. Tìm A ∩ B.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính giới hạn lim(x→0) (sin(x)/x).",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh giá trị của 5^x và 3^(2x) khi x = 4.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm tọa độ điểm giao nhau của hai hàm số y = x^2 - 3x + 1 và y = 2x + 4.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Nhân các số nguyên từ -5 đến 5.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tính log_4(64) - log_2(8).",
+        "category": "Log"
+    },
+    {
+        "text": "Giải hệ phương trình: x + y = 15 và x^2 + y^2 = 113.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho tam giác ABC vuông tại A, AB = 6, AC = 8. Tính độ dài cạnh BC.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Tính giá trị của biểu thức: (x^2 - 4x + 4)/(x - 2), với x ≠ 2.",
+        "category": "Biểu thức"
+    },
+    {
+        "text": "Giải bất phương trình: 2x^2 - 3x + 1 > 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tìm giao của hai tập hợp: A = {x ∈ ℝ | x^2 - 4 ≤ 0}, B = {x ∈ ℝ | x + 2 ≥ 0}.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính tích phân của hàm số f(x) = 3x^2 - 2x + 1 trên đoạn [0, 3].",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh giá trị của 5^x và 3^(x+1) khi x = 2.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm tọa độ điểm cực đại của hàm số y = -x^2 + 4x - 3.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Giải phương trình logarit: log_3(x + 4) = 2.",
+        "category": "Log"
+    },
+    {
+        "text": "Giải phương trình: sin(2x) = cos(x).",
+        "category": "Lượng giác"
+    },
+    {
+        "text": "Cho đường tròn (O) có bán kính R = 5, tính độ dài cung AB biết góc ở tâm AOB = 60°.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Tính tích của các số nguyên từ 1 đến 10.",
+        "category": "Nhân số nguyên"
+    },
+    {
+        "text": "Tìm nghiệm của phương trình: 3x^3 - 2x^2 - 5x + 6 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Giải phương trình bậc hai: 4x^2 + 12x + 9 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho A = {x | x^2 - 5x + 6 ≥ 0}, B = {x | x - 3 < 0}. Tìm A ∪ B.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tính giới hạn: lim(x→∞) (3x^2 - 2x + 1)/(x^2 + 4x).",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh giá trị của hàm số f(x) = 2x^2 - 5x + 6 tại x = 1 và x = -2.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm tọa độ giao điểm của hai đường thẳng y = 3x + 2 và y = -x + 4.",
+        "category": "Điểm"
+    },
+    {
+        "text": "Giải bất phương trình: (x - 1)(x + 3) ≤ 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho hình chóp tứ giác đều có cạnh đáy là 4 cm, chiều cao là 6 cm. Tính thể tích của hình chóp.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Tính đạo hàm của hàm số f(x) = x^3 - 4x^2 + 5x - 2.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "So sánh giá trị của hàm số g(x) = x^3 - 6x + 1 tại x = 2 và x = -1.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tìm nghiệm của phương trình log_2(x^2 - 3x + 2) = 3.",
+        "category": "Log"
+    },
+    {
+        "text": "Tính tích phân xác định của hàm số f(x) = 2x - 3 trên đoạn [1, 4].",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Giải phương trình bậc ba: x^3 + 2x^2 - 5x - 6 = 0.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho hình lăng trụ đứng có chiều cao là 12 cm, đáy là hình vuông có cạnh 5 cm. Tính thể tích của hình lăng trụ.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Tính đạo hàm bậc hai của hàm số y = x^4 - 2x^3 + x - 7.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Giải phương trình logarit: log_5(x - 1) + log_5(x + 3) = 2.",
+        "category": "Log"
+    },
+    {
+        "text": "Tính diện tích hình quạt tròn có bán kính r = 7 cm và góc ở tâm 45°.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Tìm nghiệm của hệ phương trình: x^2 + y^2 = 25 và x + y = 7.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tính giới hạn lim(x→∞) (2x^3 - x)/(x^3 + 5x^2 - 1).",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Tính diện tích tam giác ABC biết A(0,0), B(4,0), C(0,3).",
+        "category": "Hình học"
+    },
+    {
+        "text": "Giải bất phương trình: |2x - 5| > 3.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Tính tích phân của hàm số f(x) = sin(x) từ 0 đến π.",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Giải hệ phương trình: x + y = 9 và x^2 + y^2 = 45.",
+        "category": "Tìm biến"
+    },
+    {
+        "text": "Cho đường tròn (O) có phương trình: x^2 + y^2 = 25. Tìm tọa độ các điểm cắt của nó với trục Ox.",
+        "category": "Hình học"
+    },
+    {
+        "text": "So sánh giá trị của 3^x và 2^(2x) khi x = 4.",
+        "category": "So sánh"
+    },
+    {
+        "text": "Tính thể tích hình nón có chiều cao 10 cm và bán kính đáy 4 cm.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Tìm nghiệm của phương trình lượng giác: 2sin(x) + √3 = 0.",
+        "category": "Lượng giác"
+    },
+    {
+        "text": "Tính đạo hàm của hàm số f(x) = x^2 ln(x).",
+        "category": "Toán tử"
+    },
+    {
+        "text": "Kiểm tra xem số 29 có phải là số nguyên tố hay không.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Liệt kê các số nguyên tố nhỏ hơn 50.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Số 91 có phải là số nguyên tố hay không?",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất của 36 và 60.",
+        "category": "Ước"
+    },
+    {
+        "text": "Tìm tất cả các ước của số 24.",
+        "category": "Ước"
+    },
+    {
+        "text": "Ước chung lớn nhất của 18 và 27 là bao nhiêu?",
+        "category": "Ước"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 12 và 15.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 20 và 30.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Số nào là bội chung nhỏ nhất của 8 và 12?",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tính giá trị của 2^5.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính giá trị của 3^4.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính 5^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính độ dài đoạn thẳng AB nếu A(1, 2), B(4, 6).",
+        "category": "Đường"
+    },
+    {
+        "text": "Cho điểm C(3, 5) và D(7, 9). Tính độ dài đoạn CD.",
+        "category": "Đường"
+    },
+    {
+        "text": "Tìm khoảng cách giữa hai điểm P(-1, 2) và Q(2, 6).",
+        "category": "Đường"
+    },
+    {
+        "text": "Tính chu vi của hình tròn có bán kính 7 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Cho tam giác đều ABC có cạnh 5 cm. Tính chu vi của tam giác ABC.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính chu vi của một hình chữ nhật có chiều dài 8 cm và chiều rộng 5 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích hình tròn có bán kính 6 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Cho hình chữ nhật có chiều dài 10 cm và chiều rộng 4 cm. Tính diện tích hình chữ nhật.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tính diện tích của một hình vuông có cạnh dài 7 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Kiểm tra xem số 29 có phải là số nguyên tố hay không.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Liệt kê các số nguyên tố nhỏ hơn 50.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Số 91 có phải là số nguyên tố hay không?",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất của 36 và 60.",
+        "category": "Ước"
+    },
+    {
+        "text": "Tìm tất cả các ước của số 24.",
+        "category": "Ước"
+    },
+    {
+        "text": "Ước chung lớn nhất của 18 và 27 là bao nhiêu?",
+        "category": "Ước"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 12 và 15.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 20 và 30.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Số nào là bội chung nhỏ nhất của 8 và 12?",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tính giá trị của 2^5.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính giá trị của 3^4.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính 5^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính độ dài đoạn thẳng AB nếu A(1, 2), B(4, 6).",
+        "category": "Đường"
+    },
+    {
+        "text": "Cho điểm C(3, 5) và D(7, 9). Tính độ dài đoạn CD.",
+        "category": "Đường"
+    },
+    {
+        "text": "Tìm khoảng cách giữa hai điểm P(-1, 2) và Q(2, 6).",
+        "category": "Đường"
+    },
+    {
+        "text": "Tính chu vi của hình tròn có bán kính 7 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Cho tam giác đều ABC có cạnh 5 cm. Tính chu vi của tam giác ABC.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính chu vi của một hình chữ nhật có chiều dài 8 cm và chiều rộng 5 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích hình tròn có bán kính 6 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Cho hình chữ nhật có chiều dài 10 cm và chiều rộng 4 cm. Tính diện tích hình chữ nhật.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tính diện tích của một hình vuông có cạnh dài 7 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Liệt kê các ước của số 42.",
+        "category": "Ước"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất của 48 và 64.",
+        "category": "Ước"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 14 và 21.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tìm tất cả các ước của số 30.",
+        "category": "Ước"
+    },
+    {
+        "text": "Bội chung nhỏ nhất của 10 và 25 là bao nhiêu?",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tính giá trị của 7^2.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính giá trị của 10^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm khoảng cách giữa hai điểm M(2, 3) và N(5, 7).",
+        "category": "Đường"
+    },
+    {
+        "text": "Tính độ dài đoạn thẳng PQ nếu P(0, 0), Q(3, 4).",
+        "category": "Đường"
+    },
+    {
+        "text": "Tính chu vi của hình vuông có cạnh dài 6 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Cho hình tròn có bán kính 10 cm. Tính chu vi của hình tròn.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích của tam giác có đáy 8 cm và chiều cao 5 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tính diện tích hình chữ nhật có chiều dài 12 cm và chiều rộng 8 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Cho hình tròn có bán kính 9 cm. Tính diện tích của hình tròn.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất của 54 và 72.",
+        "category": "Ước"
+    },
+    {
+        "text": "Liệt kê các bội của số 4 nhỏ hơn 50.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 16 và 20.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tính giá trị của 6^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính giá trị của 9^2.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm khoảng cách giữa hai điểm X(1, 1) và Y(4, 5).",
+        "category": "Đường"
+    },
+    {
+        "text": "Tính chu vi của hình vuông có cạnh dài 9 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Cho tam giác có ba cạnh lần lượt là 3 cm, 4 cm, và 5 cm. Tính chu vi của tam giác.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích của hình chữ nhật có chiều dài 15 cm và chiều rộng 7 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tính diện tích của hình tròn có bán kính 5 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Rút gọn phân số 45/60.",
+        "category": "Phân số"
+    },
+    {
+        "text": "Tính tổng của 2/3 và 3/4.",
+        "category": "Phân số"
+    },
+    {
+        "text": "Tìm giá trị nhỏ nhất của hàm số f(x) = x^2 - 4x + 5.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm giá trị lớn nhất của hàm số y = -x^2 + 6x - 9.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tính góc giữa hai đường thẳng y = 2x + 1 và y = -x + 3.",
+        "category": "Góc"
+    },
+    {
+        "text": "Cho tam giác ABC vuông tại A, AB = 6, AC = 8. Tính góc BAC.",
+        "category": "Góc"
+    },
+    {
+        "text": "Kiểm tra xem số 49 có phải là số chính phương hay không.",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Tìm số chính phương nhỏ nhất lớn hơn 100.",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Tính tỷ lệ giữa 4 và 5.",
+        "category": "Tỉ lệ"
+    },
+    {
+        "text": "Tìm tỷ lệ giữa hai số 7 và 21.",
+        "category": "Tỉ lệ"
+    },
+    {
+        "text": "Tính tổng của các số từ 1 đến 100.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tính tổng của các số chẵn từ 2 đến 50.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tính hiệu của 123 và 89.",
+        "category": "Hiệu"
+    },
+    {
+        "text": "Tính hiệu của 275 và 153.",
+        "category": "Hiệu"
+    },
+    {
+        "text": "Tính giới hạn lim(x→∞) (3x - 2)/(x + 5).",
+        "category": "Giới hạn"
+    },
+    {
+        "text": "Tính giới hạn lim(x→0) (sin(x)/x).",
+        "category": "Giới hạn"
+    },
+    {
+        "text": "Giải phương trình 2x + 3 = 7.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Giải phương trình bậc hai x^2 - 5x + 6 = 0.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Rút gọn phân số 56/84.",
+        "category": "Phân số"
+    },
+    {
+        "text": "Tính tích của 3/5 và 7/9.",
+        "category": "Phân số"
+    },
+    {
+        "text": "Tìm giá trị của hàm số y = x^2 + 2x + 1 tại x = -1.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Cho hàm số y = -x^2 + 4x - 3. Tính giá trị lớn nhất của y.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tính góc giữa hai đường thẳng y = x + 2 và y = -2x + 4.",
+        "category": "Góc"
+    },
+    {
+        "text": "Cho tam giác đều có góc tại mỗi đỉnh bằng bao nhiêu độ?",
+        "category": "Góc"
+    },
+    {
+        "text": "Số 81 có phải là số chính phương không?",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Tìm số chính phương lớn nhất nhỏ hơn 200.",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Tìm tỷ lệ giữa hai số 15 và 45.",
+        "category": "Tỉ lệ"
+    },
+    {
+        "text": "Tỷ lệ giữa 8 và 12 là bao nhiêu?",
+        "category": "Tỉ lệ"
+    },
+    {
+        "text": "Tính tổng của các số lẻ từ 1 đến 99.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tính tổng của các số từ 1 đến 50.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tính hiệu của 576 và 231.",
+        "category": "Hiệu"
+    },
+    {
+        "text": "Tính hiệu của 999 và 543.",
+        "category": "Hiệu"
+    },
+    {
+        "text": "Tính giới hạn lim(x→∞) (x^2 - 3x)/(x^2 + 2x).",
+        "category": "Giới hạn"
+    },
+    {
+        "text": "Tính giới hạn lim(x→0+) ln(x).",
+        "category": "Giới hạn"
+    },
+    {
+        "text": "Giải phương trình 4x - 7 = 5x - 9.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Giải phương trình bậc hai x^2 - 7x + 12 = 0.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Số nào nhỏ hơn giữa 123 và 145?",
+        "category": "Lớn hơn/nhỏ hơn"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất của 18 và 24.",
+        "category": "Ước số"
+    },
+    {
+        "text": "Ước chung lớn nhất của 56 và 98 là bao nhiêu?",
+        "category": "Ước số"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 12 và 15.",
+        "category": "Bội số"
+    },
+    {
+        "text": "Bội chung nhỏ nhất của 8 và 14 là bao nhiêu?",
+        "category": "Bội số"
+    },
+    {
+        "text": "Số 64 có phải là số chính phương không?",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Số 100 có phải là số chính phương không?",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Giải phương trình tuyến tính: 3x + 7 = 19.",
+        "category": "Giải phương trình tuyến tính"
+    },
+    {
+        "text": "Giải phương trình tuyến tính: 5x - 9 = 21.",
+        "category": "Giải phương trình tuyến tính"
+    },
+    {
+        "text": "Tìm số đối của -10.",
+        "category": "Số đối"
+    },
+    {
+        "text": "Số đối của 13 là bao nhiêu?",
+        "category": "Số đối"
+    },
+    {
+        "text": "So sánh 65 và 90. Số nào lớn hơn?",
+        "category": "Lớn hơn/nhỏ hơn"
+    },
+    {
+        "text": "Số nào nhỏ hơn giữa 34 và 58?",
+        "category": "Lớn hơn/nhỏ hơn"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất của 36 và 48.",
+        "category": "Ước số"
+    },
+    {
+        "text": "Ước chung lớn nhất của 72 và 108 là bao nhiêu?",
+        "category": "Ước số"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 9 và 21.",
+        "category": "Bội số"
+    },
+    {
+        "text": "Bội chung nhỏ nhất của 10 và 25 là bao nhiêu?",
+        "category": "Bội số"
+    },
+    {
+        "text": "Số 81 có phải là số chính phương không?",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Số 49 có phải là số chính phương không?",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Giải phương trình tuyến tính: 4x - 5 = 15.",
+        "category": "Giải phương trình tuyến tính"
+    },
+    {
+        "text": "Giải phương trình tuyến tính: 6x + 2 = 20.",
+        "category": "Giải phương trình tuyến tính"
+    },
+    {
+        "text": "Tính tích của 2, 3 và 4.",
+        "category": "Phép nhân nhiều số"
+    },
+    {
+        "text": "Tính tích của 5, 6 và 7.",
+        "category": "Phép nhân nhiều số"
+    },
+    {
+        "text": "Tìm số lớn nhất trong các số: 34, 56, 78, 12.",
+        "category": "Lớn nhất/nhỏ nhất"
+    },
+    {
+        "text": "Tìm số nhỏ nhất trong các số: 54, 27, 89, 13.",
+        "category": "Lớn nhất/nhỏ nhất"
+    },
+    {
+        "text": "Tìm ước chung của 12 và 18.",
+        "category": "Ước số chung"
+    },
+    {
+        "text": "Tìm ước chung của 24 và 36.",
+        "category": "Ước số chung"
+    },
+    {
+        "text": "Tìm bội chung của 5 và 10.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Bội chung nhỏ nhất của 6 và 9 là bao nhiêu?",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Cho tập hợp A = {2, 4, 6, 8} và B = {4, 6, 10}. Tìm A ∩ B.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tìm hợp của hai tập hợp A = {1, 3, 5} và B = {2, 4, 6}.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Giải phương trình bậc nhất: 5x - 3 = 12.",
+        "category": "Phương trình bậc nhất"
+    },
+    {
+        "text": "Giải phương trình bậc nhất: 2x + 7 = 13.",
+        "category": "Phương trình bậc nhất"
+    },
+    {
+        "text": "Giải phương trình bậc hai: x^2 - 4x + 3 = 0.",
+        "category": "Phương trình bậc hai"
+    },
+    {
+        "text": "Giải phương trình bậc hai: 3x^2 - 5x + 2 = 0.",
+        "category": "Phương trình bậc hai"
+    },
+    {
+        "text": "Giải hệ phương trình: x + y = 7 và x - y = 3.",
+        "category": "Giải hệ phương trình"
+    },
+    {
+        "text": "Giải hệ phương trình: 2x + y = 5 và 3x - y = 4.",
+        "category": "Giải hệ phương trình"
+    },
+    {
+        "text": "Tính sin(30°) và cos(30°).",
+        "category": "Biểu thức lượng giác"
+    },
+    {
+        "text": "Tính tan(45°) và cot(45°).",
+        "category": "Biểu thức lượng giác"
+    },
+    {
+        "text": "Tính giá trị của 2^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính 3^4.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính căn bậc hai của 49.",
+        "category": "Căn bậc hai"
+    },
+    {
+        "text": "Căn bậc hai của 81 là bao nhiêu?",
+        "category": "Căn bậc hai"
+    },
+    {
+        "text": "Tính tổng của các số: 2^3, 3^2, và 4^2.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính giá trị của biểu thức: 5^2 + 2^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm nghiệm của phương trình bậc hai: x^2 - 6x + 9 = 0.",
+        "category": "Phương trình bậc hai"
+    },
+    {
+        "text": "Giải hệ phương trình: x + 2y = 8 và x - y = 1.",
+        "category": "Giải hệ phương trình"
+    },
+    {
+        "text": "Tính sin(60°) và cos(60°).",
+        "category": "Biểu thức lượng giác"
+    },
+    {
+        "text": "Tính tan(30°) và cot(30°).",
+        "category": "Biểu thức lượng giác"
+    },
+    {
+        "text": "Tính căn bậc hai của 100.",
+        "category": "Căn bậc hai"
+    },
+    {
+        "text": "Căn bậc hai của 144 là bao nhiêu?",
+        "category": "Căn bậc hai"
+    },
+    {
+        "text": "Tính giá trị của biểu thức: 4^3 - 2^4.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính tổng của các số: 5^2, 2^3, và 3^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính giá trị của hàm số f(x) = 2x + 3 khi x = 5.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tính giá trị của hàm số f(x) = x^2 - 4x + 1 khi x = 3.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tính giá trị tuyệt đối của -7.",
+        "category": "Giá trị tuyệt đối"
+    },
+    {
+        "text": "Giá trị tuyệt đối của 12 là bao nhiêu?",
+        "category": "Giá trị tuyệt đối"
+    },
+    {
+        "text": "Tính đạo hàm của hàm số f(x) = 3x^2 + 2x - 1.",
+        "category": "Đạo hàm"
+    },
+    {
+        "text": "Tính đạo hàm của hàm số f(x) = x^3 - 4x^2 + 6.",
+        "category": "Đạo hàm"
+    },
+    {
+        "text": "Tính giới hạn lim(x → 0) (x^2 - 1)/(x - 1).",
+        "category": "Giới hạn"
+    },
+    {
+        "text": "Tính giới hạn lim(x → ∞) (3x - 5)/(2x + 1).",
+        "category": "Giới hạn"
+    },
+    {
+        "text": "Tính chu vi của hình tròn có bán kính 7 cm.",
+        "category": "Hình tròn"
+    },
+    {
+        "text": "Tính diện tích của hình tròn có bán kính 10 cm.",
+        "category": "Hình tròn"
+    },
+    {
+        "text": "Tính diện tích tam giác có đáy 6 cm và chiều cao 8 cm.",
+        "category": "Hình tam giác"
+    },
+    {
+        "text": "Tính chu vi của tam giác có các cạnh là 3 cm, 4 cm và 5 cm.",
+        "category": "Hình tam giác"
+    },
+    {
+        "text": "Giải phương trình mũ: 2^x = 16.",
+        "category": "Phương trình mũ"
+    },
+    {
+        "text": "Giải phương trình mũ: 3^(x + 1) = 27.",
+        "category": "Phương trình mũ"
+    },
+    {
+        "text": "Giải phương trình logarit: log_2(x + 1) = 3.",
+        "category": "Phương trình logarit"
+    },
+    {
+        "text": "Giải phương trình logarit: log_5(x - 2) = 2.",
+        "category": "Phương trình logarit"
+    },
+    {
+        "text": "Tính tổng của các số từ 1 đến 100.",
+        "category": "Số học"
+    },
+    {
+        "text": "Tính tổng của các số từ 1 đến 50.",
+        "category": "Số học"
+    },
+    {
+        "text": "Tìm số dư khi chia 100 cho 7.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tìm số dư khi chia 45 cho 8.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số g(x) = x^2 + 3x - 4 khi x = 2.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tính giá trị của hàm số h(x) = 4x^2 - 5x + 6 khi x = -1.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tính giá trị tuyệt đối của -15.",
+        "category": "Giá trị tuyệt đối"
+    },
+    {
+        "text": "Giá trị tuyệt đối của -9 là bao nhiêu?",
+        "category": "Giá trị tuyệt đối"
+    },
+    {
+        "text": "Tính đạo hàm của hàm số f(x) = 2x^3 - x + 4.",
+        "category": "Đạo hàm"
+    },
+    {
+        "text": "Tính đạo hàm của hàm số g(x) = 5x^2 - 7x + 2.",
+        "category": "Đạo hàm"
+    },
+    {
+        "text": "Tính giới hạn lim(x → 2) (x^2 - 4)/(x - 2).",
+        "category": "Giới hạn"
+    },
+    {
+        "text": "Tính giới hạn lim(x → ∞) (x^2 - 1)/(x + 1).",
+        "category": "Giới hạn"
+    },
+    {
+        "text": "Tính diện tích của hình tròn có bán kính 5 cm.",
+        "category": "Hình tròn"
+    },
+    {
+        "text": "Tính chu vi của hình tròn có bán kính 12 cm.",
+        "category": "Hình tròn"
+    },
+    {
+        "text": "Tính diện tích tam giác có đáy 10 cm và chiều cao 5 cm.",
+        "category": "Hình tam giác"
+    },
+    {
+        "text": "Tính chu vi của tam giác có các cạnh là 5 cm, 12 cm và 13 cm.",
+        "category": "Hình tam giác"
+    },
+    {
+        "text": "Giải phương trình mũ: 5^x = 25.",
+        "category": "Phương trình mũ"
+    },
+    {
+        "text": "Giải phương trình mũ: 4^(x + 2) = 64.",
+        "category": "Phương trình mũ"
+    },
+    {
+        "text": "Giải phương trình logarit: log_3(x + 5) = 2.",
+        "category": "Phương trình logarit"
+    },
+    {
+        "text": "Giải phương trình logarit: log_7(x - 1) = 1.",
+        "category": "Phương trình logarit"
+    },
+    {
+        "text": "Tính tổng của các số từ 1 đến 200.",
+        "category": "Số học"
+    },
+    {
+        "text": "Tính tổng của các số từ 1 đến 150.",
+        "category": "Số học"
+    },
+    {
+        "text": "Tìm số dư khi chia 75 cho 4.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tìm số dư khi chia 92 cho 5.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính tích phân của hàm số f(x) = 2x + 1 từ 0 đến 3.",
+        "category": "Tích phân"
+    },
+    {
+        "text": "Tính tích phân của hàm số g(x) = x^2 - 4x từ -1 đến 2.",
+        "category": "Tích phân"
+    },
+    {
+        "text": "Giải phương trình bậc hai: x^2 - 5x + 6 = 0.",
+        "category": "Phương trình bậc hai"
+    },
+    {
+        "text": "Giải phương trình bậc hai: 2x^2 + 3x - 5 = 0.",
+        "category": "Phương trình bậc hai"
+    },
+    {
+        "text": "Giải phương trình bậc ba: x^3 - 3x + 2 = 0.",
+        "category": "Phương trình bậc ba"
+    },
+    {
+        "text": "Giải phương trình bậc ba: 2x^3 - x^2 + 3x - 1 = 0.",
+        "category": "Phương trình bậc ba"
+    },
+    {
+        "text": "Tính góc giữa hai vectơ a = (1, 2) và b = (3, 4).",
+        "category": "Góc"
+    },
+    {
+        "text": "Tính góc giữa hai đường thẳng y = 2x + 1 và y = -x + 4.",
+        "category": "Góc"
+    },
+    {
+        "text": "Tìm phương trình đường thẳng đi qua hai điểm A(1, 2) và B(3, 4).",
+        "category": "Đường thẳng"
+    },
+    {
+        "text": "Tìm phương trình đường thẳng đi qua điểm C(0, 0) và có hệ số góc là 3.",
+        "category": "Đường thẳng"
+    },
+    {
+        "text": "Giải hệ phương trình: 2x + y = 10 và x - y = 3.",
+        "category": "Hệ phương trình"
+    },
+    {
+        "text": "Giải hệ phương trình: x + 2y = 5 và 3x - y = 7.",
+        "category": "Hệ phương trình"
+    },
+    {
+        "text": "Giải phương trình căn thức: √(x + 3) = 5.",
+        "category": "Phương trình căn thức"
+    },
+    {
+        "text": "Giải phương trình căn thức: √(2x + 4) = 6.",
+        "category": "Phương trình căn thức"
+    },
+    {
+        "text": "Kiểm tra xem 37 có phải là số nguyên tố không.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Liệt kê các số nguyên tố nhỏ hơn 50.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Tính lũy thừa: 3^4.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính lũy thừa: 5^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất (UCLN) của 28 và 42.",
+        "category": "Ước chung lớn nhất (UCLN)"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất (UCLN) của 36 và 60.",
+        "category": "Ước chung lớn nhất (UCLN)"
+    },
+    {
+        "text": "Tính tích phân của hàm số f(x) = x^2 từ 1 đến 4.",
+        "category": "Tích phân"
+    },
+    {
+        "text": "Tính tích phân của hàm số g(x) = 3x - 1 từ -2 đến 2.",
+        "category": "Tích phân"
+    },
+    {
+        "text": "Giải phương trình bậc hai: x^2 - 4x + 3 = 0.",
+        "category": "Phương trình bậc hai"
+    },
+    {
+        "text": "Giải phương trình bậc hai: 3x^2 - 2x - 1 = 0.",
+        "category": "Phương trình bậc hai"
+    },
+    {
+        "text": "Giải phương trình bậc ba: x^3 - x^2 - 2x + 1 = 0.",
+        "category": "Phương trình bậc ba"
+    },
+    {
+        "text": "Giải phương trình bậc ba: 3x^3 + x - 4 = 0.",
+        "category": "Phương trình bậc ba"
+    },
+    {
+        "text": "Tính góc giữa hai vectơ a = (2, -1) và b = (-1, 3).",
+        "category": "Góc"
+    },
+    {
+        "text": "Tính góc giữa hai đường thẳng y = 4x + 2 và y = -2x + 5.",
+        "category": "Góc"
+    },
+    {
+        "text": "Tìm phương trình đường thẳng đi qua hai điểm M(2, -1) và N(4, 3).",
+        "category": "Đường thẳng"
+    },
+    {
+        "text": "Tìm phương trình đường thẳng đi qua điểm D(-2, 1) và có hệ số góc là 1/2.",
+        "category": "Đường thẳng"
+    },
+    {
+        "text": "Giải hệ phương trình: 3x + 2y = 12 và 4x - y = 5.",
+        "category": "Hệ phương trình"
+    },
+    {
+        "text": "Giải hệ phương trình: 5x - 3y = 9 và x + 2y = 4.",
+        "category": "Hệ phương trình"
+    },
+    {
+        "text": "Giải phương trình căn thức: √(x - 1) + 2 = 4.",
+        "category": "Phương trình căn thức"
+    },
+    {
+        "text": "Giải phương trình căn thức: √(3x + 5) = 7.",
+        "category": "Phương trình căn thức"
+    },
+    {
+        "text": "Kiểm tra xem 29 có phải là số nguyên tố không.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Liệt kê các số nguyên tố nhỏ hơn 100.",
+        "category": "Số nguyên tố"
+    },
+    {
+        "text": "Tính lũy thừa: 2^6.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tính lũy thừa: 7^2.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất (UCLN) của 18 và 24.",
+        "category": "Ước chung lớn nhất (UCLN)"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất (UCLN) của 45 và 75.",
+        "category": "Ước chung lớn nhất (UCLN)"
+    },
+    {
+        "text": "Tính chu vi của một hình chữ nhật có chiều dài 5 cm và chiều rộng 3 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính chu vi của một hình tròn có bán kính 7 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích của một hình vuông có cạnh 6 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tính diện tích của một tam giác có đáy 8 cm và chiều cao 5 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất (BCNN) của 15 và 20.",
+        "category": "Bội chung nhỏ nhất (BCNN)"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất (BCNN) của 12 và 18.",
+        "category": "Bội chung nhỏ nhất (BCNN)"
+    },
+    {
+        "text": "Kiểm tra xem 49 có phải là số chính phương không.",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Liệt kê các số chính phương nhỏ hơn 100.",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Kiểm tra xem 28 có phải là số hoàn hảo không.",
+        "category": "Số hoàn hảo"
+    },
+    {
+        "text": "Liệt kê các số hoàn hảo nhỏ hơn 1000.",
+        "category": "Số hoàn hảo"
+    },
+    {
+        "text": "Tính số hạng thứ 10 của dãy số Fibonacci.",
+        "category": "Dãy số"
+    },
+    {
+        "text": "Tìm tổng của 10 số hạng đầu tiên của dãy số Fibonacci.",
+        "category": "Dãy số"
+    },
+    {
+        "text": "Tìm số phức liên hợp của z = 3 + 4i.",
+        "category": "Số phức"
+    },
+    {
+        "text": "Tính môđun của số phức z = 1 - 2i.",
+        "category": "Số phức"
+    },
+    {
+        "text": "Giải phương trình mũ: 2^x = 16.",
+        "category": "Phương trình mũ"
+    },
+    {
+        "text": "Giải phương trình mũ: 3^(2x) = 81.",
+        "category": "Phương trình mũ"
+    },
+    {
+        "text": "Tính chu vi của một tam giác có các cạnh lần lượt là 3 cm, 4 cm, và 5 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính chu vi của một hình thang có các cạnh lần lượt là 6 cm, 8 cm, 5 cm, và 7 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích của một hình tròn có bán kính 5 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tính diện tích của một hình thang có đáy lớn 10 cm, đáy nhỏ 6 cm và chiều cao 4 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất (BCNN) của 14 và 21.",
+        "category": "Bội chung nhỏ nhất (BCNN)"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất (BCNN) của 9 và 12.",
+        "category": "Bội chung nhỏ nhất (BCNN)"
+    },
+    {
+        "text": "Kiểm tra xem 64 có phải là số chính phương không.",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Liệt kê các số chính phương nhỏ hơn 50.",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Kiểm tra xem 496 có phải là số hoàn hảo không.",
+        "category": "Số hoàn hảo"
+    },
+    {
+        "text": "Liệt kê các số hoàn hảo nhỏ hơn 10000.",
+        "category": "Số hoàn hảo"
+    },
+    {
+        "text": "Tính số hạng thứ 15 của dãy số Fibonacci.",
+        "category": "Dãy số"
+    },
+    {
+        "text": "Tìm tổng của 15 số hạng đầu tiên của dãy số Fibonacci.",
+        "category": "Dãy số"
+    },
+    {
+        "text": "Tìm số phức liên hợp của z = 5 - 6i.",
+        "category": "Số phức"
+    },
+    {
+        "text": "Tính môđun của số phức z = -3 + 4i.",
+        "category": "Số phức"
+    },
+    {
+        "text": "Giải phương trình mũ: 4^(x+1) = 64.",
+        "category": "Phương trình mũ"
+    },
+    {
+        "text": "Giải phương trình mũ: 5^(x-2) = 25.",
+        "category": "Phương trình mũ"
+    }
+]
