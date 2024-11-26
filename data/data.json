@@ -13595,7 +13595,1061 @@
     {
         "text": "Tính giá trị của hàm số h(x) = -x^3 + 4x - 1 khi x = 2.",
         "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 45 cho 7.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số f(x) = 2x^2 - x + 3 khi x = -2.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm thương và số dư khi chia 81 cho 8.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số g(x) = 3x^3 - 2x^2 + x - 5 khi x = 1.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 100 cho 9.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Xét hàm số h(x) = x^2 - 5x + 6. Tính giá trị của h(3).",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 123 cho 11.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số k(x) = -2x^2 + 4x - 3 khi x = 0.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm thương và số dư khi chia 56 cho 6.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Cho hàm số m(x) = x^2 + 2x + 1. Tính giá trị của m(-3).",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 90 cho 13.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số n(x) = -3x^3 + 2x^2 - x + 4 khi x = 2.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 210 cho 15.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số p(x) = x^2 - 2x + 3 khi x = -1.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm thương và số dư khi chia 243 cho 19.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Cho hàm số q(x) = 4x^2 - x + 2. Tính giá trị của q(0).",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 360 cho 17.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số r(x) = -x^2 + 5x - 4 khi x = 3.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 432 cho 16.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số s(x) = 3x^3 - 2x + 1 khi x = -1.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm thương và số dư khi chia 1000 cho 9.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Cho hàm số t(x) = -2x^2 + 3x - 7. Tính giá trị của t(-2).",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 841 cho 29.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số u(x) = x^2 + 6x + 9 khi x = -3.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 1210 cho 19.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số v(x) = -x^3 + 2x^2 - 3x + 4 khi x = 1.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 10000 cho 13.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số w(x) = 2x^2 - 7x + 12 khi x = 2.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 9876 cho 123.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của hàm số z(x) = -3x^3 + x^2 + x - 2 khi x = 0.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 18 và 54.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tính tổng của dãy số từ 1 đến 8500.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tính chu vi của một hình vuông có cạnh dài 14 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích của một hình chữ nhật có chiều dài 12 cm và chiều rộng 8 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất của 36 và 48.",
+        "category": "Ước chung"
+    },
+    {
+        "text": "So sánh hai số 125 và 256. Số nào lớn hơn?",
+        "category": "Lớn hơn/nhỏ hơn"
+    },
+    {
+        "text": "Số 64 có phải là số chính phương hay không?",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Rút gọn phân số 48/60.",
+        "category": "Phân số"
+    },
+    {
+        "text": "Tính giá trị của lũy thừa 3^4.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Giải phương trình: 2x + 7 = 15.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Tìm giá trị của hàm số f(x) = x^2 + 3x - 4 khi x = 2.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm thương và số dư khi chia 12345 cho 23.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính giá trị của tổng: 1 + 3 + 5 + ... + 99.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 6, 8 và 12.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Cho hình tròn có bán kính 5 cm. Tính chu vi của hình tròn.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Cho tam giác đều có cạnh dài 10 cm. Tính chu vi của tam giác.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích hình vuông có cạnh dài 9 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Liệt kê các ước của số 48.",
+        "category": "Ước"
+    },
+    {
+        "text": "Số nào nhỏ hơn giữa 125 và 128?",
+        "category": "Lớn hơn/nhỏ hơn"
+    },
+    {
+        "text": "Số 81 có phải là số chính phương không?",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Rút gọn phân số 120/180.",
+        "category": "Phân số"
+    },
+    {
+        "text": "Tính giá trị của lũy thừa 5^3.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Giải phương trình: 4x - 3 = 13.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Tìm giá trị của hàm số g(x) = 2x^2 - 5x + 3 khi x = -1.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tính giá trị của phép chia 4567 cho 23 và tìm số dư.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tìm tổng của các số chẵn từ 2 đến 100.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 15 và 25.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tính chu vi của một hình chữ nhật có chiều dài 20 cm và chiều rộng 10 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích hình tròn có bán kính 7 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tìm ước chung lớn nhất của 72 và 120.",
+        "category": "Ước chung"
+    },
+    {
+        "text": "So sánh giá trị của 3^3 và 2^4.",
+        "category": "Lớn hơn/nhỏ hơn"
+    },
+    {
+        "text": "Tìm số chính phương lớn nhất nhỏ hơn 200.",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Rút gọn phân số 72/108.",
+        "category": "Phân số"
+    },
+    {
+        "text": "Tính giá trị của lũy thừa 4^5.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Giải phương trình: 3x + 9 = 27.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Tính giá trị của hàm số h(x) = -x^2 + 4x - 3 khi x = 0.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm thương và số dư khi chia 9876 cho 123.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính tổng của các số lẻ từ 1 đến 199.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 24 và 36.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tính chu vi của hình tròn có đường kính 10 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích của tam giác có đáy 8 cm và chiều cao 6 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Liệt kê tất cả các ước của số 100.",
+        "category": "Ước"
+    },
+    {
+        "text": "So sánh hai số 729 và 1024. Số nào lớn hơn?",
+        "category": "Lớn hơn/nhỏ hơn"
+    },
+    {
+        "text": "Số nào là số chính phương nhỏ nhất lớn hơn 500?",
+        "category": "Số chính phương"
+    },
+    {
+        "text": "Rút gọn phân số 144/192.",
+        "category": "Phân số"
+    },
+    {
+        "text": "Tính giá trị của lũy thừa 2^10.",
+        "category": "Lũy thừa"
+    },
+    {
+        "text": "Giải phương trình: 5x - 4 = 21.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Tính giá trị của hàm số f(x) = x^2 - 2x + 1 khi x = -2.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm số dư khi chia 51234 cho 97.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Tính tổng của dãy số từ 1 đến 1000.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 18, 27 và 54.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Tính chu vi của hình tròn có bán kính 15 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tính diện tích của hình chữ nhật có chiều dài 25 cm và chiều rộng 15 cm.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Cho một hình tròn có bán kính 12 cm. Tính diện tích của hình tròn.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tính tổng các số chia hết cho 3 trong khoảng từ 1 đến 100.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Tìm số tự nhiên lớn nhất chia hết cho cả 2, 3 và 5 nhưng nhỏ hơn 100.",
+        "category": "Số chia hết"
+    },
+    {
+        "text": "Tính chu vi của một hình tam giác có các cạnh lần lượt là 7 cm, 8 cm, và 10 cm.",
+        "category": "Chu vi"
+    },
+    {
+        "text": "Tìm tổng của các số chính phương từ 1 đến 100.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Một người đi bộ với vận tốc 5 km/h trong 3 giờ. Tính quãng đường người đó đã đi.",
+        "category": "Đo lường"
+    },
+    {
+        "text": "Tính giá trị biểu thức: (15 + 6) × 3 - 12.",
+        "category": "Biểu thức"
+    },
+    {
+        "text": "Một hình lập phương có cạnh dài 4 cm. Tính thể tích của hình lập phương.",
+        "category": "Thể tích"
+    },
+    {
+        "text": "Tìm quy luật của dãy số sau: 2, 4, 8, 16, ... và viết số hạng thứ 6 của dãy.",
+        "category": "Quy luật số học"
+    },
+    {
+        "text": "Cho một bể nước hình hộp chữ nhật có chiều dài 2 m, chiều rộng 1.5 m và chiều cao 1 m. Tính thể tích của bể nước.",
+        "category": "Thể tích"
+    },
+    {
+        "text": "Tìm số tự nhiên nhỏ nhất chia hết cho cả 8 và 12.",
+        "category": "Số chia hết"
+    },
+    {
+        "text": "Viết các số chẵn liên tiếp từ 10 đến 20.",
+        "category": "Dãy số"
+    },
+    {
+        "text": "Tính giá trị trung bình cộng của các số: 12, 15, 20, 25.",
+        "category": "Trung bình cộng"
+    },
+    {
+        "text": "Một hình hộp chữ nhật có các cạnh lần lượt là 4 cm, 6 cm và 8 cm. Tính diện tích toàn phần của hình hộp.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Cho biểu thức: (x + 5) × 3 = 27. Tìm giá trị của x.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Một cuốn sách có 120 trang. Số trang có 2 chữ số chiếm bao nhiêu phần trăm tổng số trang?",
+        "category": "Tỉ lệ phần trăm"
+    },
+    {
+        "text": "Tìm số lớn nhất trong các số: 125, 256, 1024, 729.",
+        "category": "Lớn nhất/nhỏ nhất"
+    },
+    {
+        "text": "Một cửa hàng có 1200 kg gạo. Hôm nay bán được 300 kg. Tính phần trăm lượng gạo đã bán.",
+        "category": "Tỉ lệ phần trăm"
+    },
+    {
+        "text": "Tính tổng của các số lẻ từ 1 đến 200.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Một hình vuông có diện tích 121 cm². Tính độ dài cạnh của hình vuông.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Tìm số nhỏ nhất trong các số: 456, 789, 123, 345.",
+        "category": "Lớn nhất/nhỏ nhất"
+    },
+    {
+        "text": "Một bể nước hình trụ có bán kính đáy là 0.5 m và chiều cao là 2 m. Tính thể tích của bể nước.",
+        "category": "Thể tích"
+    },
+    {
+        "text": "Tìm quy luật của dãy số sau: 1, 4, 9, 16, ... và viết số hạng thứ 5.",
+        "category": "Quy luật số học"
+    },
+    {
+        "text": "Tính tổng của các số nguyên từ -20 đến 20.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Một người mua hàng giảm giá 20% trên tổng số tiền 500.000 đồng. Tính số tiền người đó phải trả.",
+        "category": "Tỉ lệ phần trăm"
+    },
+    {
+        "text": "Tìm giá trị lớn nhất của hàm số y = -x^2 + 4x - 3.",
+        "category": "Hàm số"
+    },
+    {
+        "text": "Tìm bội chung nhỏ nhất của 45 và 75.",
+        "category": "Bội chung"
+    },
+    {
+        "text": "Một hình tam giác có độ dài ba cạnh lần lượt là 3 cm, 4 cm và 5 cm. Tính diện tích của tam giác.",
+        "category": "Diện tích"
+    },
+    {
+        "text": "Tính giá trị của biểu thức: (8 × 7) - (12 ÷ 4) + 15.",
+        "category": "Biểu thức"
+    },
+    {
+        "text": "Cho dãy số: 5, 10, 15, 20, ... Tìm tổng của 20 số đầu tiên.",
+        "category": "Dãy số"
+    },
+    {
+        "text": "Một hình chóp có diện tích đáy là 30 cm² và chiều cao là 10 cm. Tính thể tích của hình chóp.",
+        "category": "Thể tích"
+    },
+    {
+        "text": "Viết tập hợp các số nguyên x thỏa mãn -3 ≤ x ≤ 3.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Tìm số dư khi chia 765432 cho 17.",
+        "category": "Phép chia có dư"
+    },
+    {
+        "text": "Một cửa hàng bán 1500 kg gạo. Số lượng này chiếm 25% tổng lượng gạo ban đầu. Tính lượng gạo ban đầu.",
+        "category": "Tỉ lệ phần trăm"
+    },
+    {
+        "text": "Một hình lập phương có thể tích là 27 cm³. Tính diện tích toàn phần của hình lập phương.",
+        "category": "Thể tích"
+    },
+    {
+        "text": "Giải phương trình: x/5 + 3 = 7.",
+        "category": "Phương trình"
+    },
+    {
+        "text": "Tìm giá trị của biểu thức: (x^2 - 4x + 4)/(x - 2), với x ≠ 2.",
+        "category": "Biểu thức"
+    },
+    {
+        "text": "Cho tập hợp A = {2, 4, 6, 8}. Tìm số tập con của A.",
+        "category": "Tập hợp"
+    },
+    {
+        "text": "Một hình vuông có chu vi 36 cm. Tính diện tích của hình vuông.",
+        "category": "Hình học"
+    },
+    {
+        "text": "Tìm tất cả các ước của số 96.",
+        "category": "Ước"
+    },
+    {
+        "text": "Tính giá trị của tổng: 100 + 200 + 300 + ... + 1000.",
+        "category": "Tổng"
+    },
+    {
+        "text": "Một bể cá hình hộp chữ nhật có chiều dài 80 cm, chiều rộng 40 cm và chiều cao 50 cm. Tính thể tích bể cá (đơn vị cm³).",
+        "category": "Thể tích"
+    },
+    {
+        "text": "Trên trục số Ox, cho ba điểm A, B, và C sao cho OA = 8 cm, OB = 12 cm, và OC = 6 cm. Xác định điểm nằm giữa hai điểm còn lại và tính khoảng cách giữa ba điểm A, B, C.",
+        "category": "Khoảng cách trên trục số"
+    },
+    {
+        "text": "Cho ba điểm M, N, P trên trục số Ox với OM = 10 cm, ON = 4 cm, và OP = 7 cm. Tính độ dài đoạn thẳng MP, NP, và kiểm tra xem điểm N có là trung điểm của đoạn MP hay không?",
+        "category": "Trung điểm và khoảng cách"
+    },
+    {
+        "text": "Trên Ox, cho bốn điểm A, B, C, D sao cho OA = 5 cm, OB = 15 cm, OC = 10 cm, và OD = 2 cm. a) Sắp xếp thứ tự bốn điểm theo trục Ox. b) Tính tổng độ dài các đoạn AB, AC, AD.",
+        "category": "Thứ tự trên trục số"
+    },
+    {
+        "text": "Trên trục số Ox, hai điểm A và B nằm ở hai phía của gốc O với OA = 9 cm và OB = 4 cm. Tính độ dài đoạn AB.",
+        "category": "Khoảng cách trên hai phía Ox"
+    },
+    {
+        "text": "Trên trục số Ox, cho điểm A có tọa độ x = 4, điểm B có tọa độ x = -3. Tìm tọa độ điểm C sao cho điểm C là trung điểm của đoạn thẳng AB.",
+        "category": "Tọa độ trung điểm"
+    },
+    {
+        "text": "Cho ba điểm A, B, C trên Ox với OA = 3 cm, OB = 11 cm, và OC = 6 cm. Tìm điểm nằm giữa và tính tổng độ dài đoạn AC và BC.",
+        "category": "Tính tổng khoảng cách"
+    },
+    {
+        "text": "Trên Ox, có ba điểm A, B, C sao cho OA = 2 cm, OB = 14 cm và OC = 8 cm. Tìm khoảng cách giữa hai điểm xa nhất.",
+        "category": "Khoảng cách lớn nhất"
+    },
+    {
+        "text": "Trên trục số Ox, cho các điểm A, B, C sao cho OA = 5 cm, OB = 12 cm, và OC = 8 cm. Kiểm tra xem điểm C có là trung điểm của đoạn AB hay không. Nếu không, hãy tính độ lệch.",
+        "category": "Kiểm tra trung điểm"
+    },
+    {
+        "text": "Trên Ox, cho ba điểm A, B, C với tọa độ lần lượt là x = -5, x = 3 và x = 10. Tính độ dài đoạn AC và kiểm tra xem điểm B có nằm trên đoạn AC hay không.",
+        "category": "Kiểm tra điểm thuộc đoạn"
+    },
+    {
+        "text": "Trên Ox, hai điểm A và B nằm trên cùng phía với O, OA = 6 cm, OB = 10 cm. Tìm điểm C sao cho OC là trung bình cộng của OA và OB.",
+        "category": "Tọa độ trung bình cộng"
+    },
+    {
+        "text": "Trên Ox, cho bốn điểm A, B, C, D sao cho OA = 1 cm, OB = 5 cm, OC = 3 cm, và OD = 7 cm. Tìm tổng độ dài các đoạn AB, BC, CD, và DA.",
+        "category": "Tổng độ dài các đoạn thẳng"
+    },
+    {
+        "text": "Trên trục số Ox, cho ba điểm A, B, C sao cho A nằm ở tọa độ x = -2, B ở tọa độ x = 6 và C ở tọa độ x = 4. Tìm khoảng cách giữa hai điểm gần nhất.",
+        "category": "Khoảng cách gần nhất"
+    },
+    {
+        "text": "Cho trên Ox ba điểm A, B, C sao cho AB = 7 cm, AC = 15 cm và BC = 8 cm. Hỏi điểm nào nằm giữa hai điểm còn lại? Giải thích.",
+        "category": "Xác định vị trí điểm"
+    },
+    {
+        "text": "Trên Ox, ba điểm A, B, C nằm lần lượt tại các tọa độ 0, 8, và x. Biết C là trung điểm của đoạn AB. Tìm tọa độ của C.",
+        "category": "Xác định tọa độ trung điểm"
+    },
+    {
+        "text": "Trên Ox, cho các điểm A, B, C sao cho OA = 2, OB = 6 và OC = 4. Kiểm tra điểm B có phải là trung điểm của đoạn AC không? Vì sao?",
+        "category": "Kiểm tra trung điểm"
+    },
+    {
+        "text": "Trên trục số Ox, có các điểm A (x = 3), B (x = -5) và C (x = 2). Tính khoảng cách từ điểm C đến trung điểm của đoạn AB.",
+        "category": "Khoảng cách đến trung điểm"
+    },
+    {
+        "text": "Trên trục số Ox, cho A có tọa độ 3, B có tọa độ -7, và C có tọa độ 5. Tính chu vi của tam giác ABC.",
+        "category": "Chu vi tam giác"
+    },
+    {
+        "text": "Trên Ox, các điểm A, B, C nằm tại các tọa độ x = -10, x = 0, và x = 10. Kiểm tra xem tam giác ABC có cân không? Vì sao?",
+        "category": "Hình học tam giác trên Ox"
+    },
+    {
+        "text": "Cho điểm M nằm giữa hai điểm A, B trên Ox. Biết AB = 20 cm, AM = 7 cm. Tính độ dài đoạn MB.",
+        "category": "Khoảng cách giữa hai đoạn"
+    },
+    {
+        "text": "Trên trục số Ox, cho ba điểm A, B, C có tọa độ lần lượt là x = -8, x = 0 và x = 6. Tính độ dài đoạn AC và kiểm tra xem điểm B có phải là trung điểm của đoạn AC không.",
+        "category": "Kiểm tra trung điểm"
+    },
+    {
+        "text": "Trên trục Ox, cho điểm A (x = 2), điểm B (x = 12) và điểm C (x = x0). Biết rằng khoảng cách từ A đến C bằng khoảng cách từ B đến C. Tìm tọa độ của C.",
+        "category": "Khoảng cách bằng nhau"
+    },
+    {
+        "text": "Trên Ox, cho điểm A (x = -5), điểm B (x = 4), và điểm C (x = 9). Tính tổng khoảng cách từ A đến C và từ B đến C.",
+        "category": "Tổng khoảng cách"
+    },
+    {
+        "text": "Trên trục số Ox, cho các điểm A, B, C với tọa độ lần lượt là x = 1, x = 7, và x = 4. a) Xác định điểm nằm giữa. b) Tính độ dài đoạn thẳng ngắn nhất và dài nhất.",
+        "category": "Xác định điểm nằm giữa"
+    },
+    {
+        "text": "Trên trục số Ox, ba điểm A, B, C nằm tại các tọa độ -3, 2 và 11. Tính chu vi và diện tích tam giác ABC.",
+        "category": "Tam giác trên trục số"
+    },
+    {
+        "text": "Cho ba điểm A, B, C trên Ox với tọa độ lần lượt là -10, 0 và 5. Điểm D nằm giữa A và B sao cho AD = 1/3 AB. Tìm tọa độ của D.",
+        "category": "Phân chia đoạn thẳng"
+    },
+    {
+        "text": "Trên trục số Ox, các điểm A, B, C có tọa độ x = -12, x = 6, x = 9. Kiểm tra xem tam giác ABC có phải là tam giác vuông không.",
+        "category": "Tam giác vuông"
+    },
+    {
+        "text": "Trên trục Ox, cho điểm M có tọa độ x = 0. Biết rằng M là trung điểm của đoạn thẳng AB với A nằm tại x = -14. Tìm tọa độ của B.",
+        "category": "Tính tọa độ điểm"
+    },
+    {
+        "text": "Cho điểm A, B, C trên trục số Ox với OA = 5 cm, OB = 15 cm, OC = 10 cm. Điểm D chia đoạn AB theo tỉ lệ 1:2. Tính tọa độ điểm D.",
+        "category": "Chia đoạn theo tỉ lệ"
+    },
+    {
+        "text": "Trên trục số Ox, ba điểm A, B, C nằm tại các tọa độ -7, 3 và 15. Tính độ dài đoạn BC và kiểm tra xem trung điểm của đoạn AC có nằm trong đoạn BC hay không.",
+        "category": "Trung điểm và đoạn thẳng"
+    },
+    {
+        "text": "Trên trục số Ox, cho điểm A có tọa độ x = -9, điểm B có tọa độ x = -1. Điểm M nằm giữa A và B và cách A một khoảng bằng 1/4 AB. Tìm tọa độ của M.",
+        "category": "Phân đoạn tỉ lệ"
+    },
+    {
+        "text": "Cho ba điểm A, B, C trên trục số với tọa độ lần lượt là -6, -2, và 4. Kiểm tra xem điểm C có nằm trên đoạn AB hay không. Giải thích.",
+        "category": "Kiểm tra điểm nằm trên đoạn"
+    },
+    {
+        "text": "Trên Ox, cho hai điểm A (x = 0) và B (x = 12). Tìm điểm C sao cho OC = 1/2 OB và OC + AC = AB.",
+        "category": "Bài toán chia đoạn"
+    },
+    {
+        "text": "Trên trục Ox, các điểm A, B, C nằm lần lượt tại các tọa độ x = -3, x = 5 và x = 10. Tìm tọa độ của điểm D nằm giữa A và C sao cho CD = 2/5 AC.",
+        "category": "Tọa độ điểm chia đoạn"
+    },
+    {
+        "text": "Trên trục số Ox, ba điểm A, B, C nằm tại các tọa độ x = 0, x = 10 và x = 15. Tìm tọa độ điểm D sao cho D là trung điểm của đoạn BC.",
+        "category": "Tìm trung điểm"
+    },
+    {
+        "text": "Cho các điểm A, B, C trên Ox với tọa độ x = -5, x = 5, và x = 20. Điểm D chia đoạn AC theo tỉ lệ 3:2. Tìm tọa độ điểm D.",
+        "category": "Chia đoạn theo tỉ lệ"
+    },
+    {
+        "text": "Trên Ox, cho điểm A (x = -8), điểm B (x = 0). Tìm tọa độ điểm C sao cho C nằm trên đoạn AB và khoảng cách từ A đến C bằng 3 lần khoảng cách từ C đến B.",
+        "category": "Phân chia đoạn theo tỉ lệ đặc biệt"
+    },
+    {
+        "text": "Trên Ox, điểm A có tọa độ x = -4 và điểm B có tọa độ x = 10. Tìm tọa độ điểm D sao cho D nằm giữa A và B và chia đoạn AB theo tỉ lệ 4:1.",
+        "category": "Phân đoạn tỉ lệ"
+    },
+    {
+        "text": "Trên trục số Ox, điểm M nằm tại tọa độ x = -2 và điểm N nằm tại x = 6. Tính khoảng cách từ điểm P đến M và N, biết rằng P chia đoạn MN theo tỉ lệ 2:3.",
+        "category": "Tìm tọa độ chia đoạn"
+    },
+    {
+        "text": "Trên Ox, ba điểm A, B, C nằm lần lượt tại x = -6, x = 0 và x = 4. Kiểm tra xem tam giác ABC có phải là tam giác cân không.",
+        "category": "Tam giác cân"
+    },
+    {
+        "text": "Trên trục số Ox, cho ba điểm A, B, C với OA = 6 cm, OB = 10 cm, và OC = 8 cm. Điểm nào nằm giữa hai điểm còn lại? Giải thích bằng cách tính độ dài các đoạn thẳng.",
+        "category": "Xác định vị trí điểm"
+    },
+    {
+        "text": "Cho ba điểm A, B, C trên Ox với tọa độ lần lượt là x = -12, x = -4 và x = 3. Tính tổng độ dài đoạn AB và BC, sau đó kiểm tra xem điểm A có nằm trên đoạn BC không.",
+        "category": "Kiểm tra điểm thuộc đoạn"
+    },
+    {
+        "text": "Trên Ox, điểm A nằm ở tọa độ x = -9, điểm B ở x = 3. Tìm tọa độ điểm C sao cho điểm C nằm giữa A và B và chia đoạn AB theo tỉ lệ 2:3.",
+        "category": "Chia đoạn theo tỉ lệ"
+    },
+    {
+        "text": "Cho điểm A, B, C trên trục Ox với tọa độ x = 0, x = 8, x = 16. Tìm tọa độ điểm D sao cho D là trung điểm của đoạn AC.",
+        "category": "Tìm trung điểm"
+    },
+    {
+        "text": "Trên Ox, điểm A có tọa độ x = -5, điểm B có tọa độ x = 7. Điểm C là trung điểm của đoạn AB. Tính tọa độ của C và khoảng cách từ C đến A.",
+        "category": "Tính trung điểm"
+    },
+    {
+        "text": "Trên trục Ox, cho ba điểm A, B, C lần lượt tại tọa độ -6, 0, và 9. Điểm D nằm giữa B và C và chia đoạn BC theo tỉ lệ 1:2. Tính tọa độ của D.",
+        "category": "Chia đoạn theo tỉ lệ"
+    },
+    {
+        "text": "Trên trục Ox, cho ba điểm A, B, C với tọa độ x = -4, x = 0, x = 12. Tính độ dài đoạn AC và kiểm tra xem điểm B có phải là trung điểm của đoạn AC không.",
+        "category": "Kiểm tra trung điểm"
+    },
+    {
+        "text": "Trên trục Ox, ba điểm A, B, C nằm tại x = -10, x = -2, và x = 6. Kiểm tra xem tam giác ABC có phải là tam giác vuông không. Nếu có, chỉ rõ góc vuông nằm tại điểm nào.",
+        "category": "Kiểm tra tam giác vuông"
+    },
+    {
+        "text": "Trên Ox, cho ba điểm A, B, C với tọa độ x = -7, x = 0, và x = 3. Tính chu vi tam giác ABC.",
+        "category": "Chu vi tam giác"
+    },
+    {
+        "text": "Cho các điểm A, B, C trên trục số Ox với tọa độ lần lượt là -8, 2, và 6. Tính khoảng cách từ điểm C đến trung điểm của đoạn AB.",
+        "category": "Khoảng cách đến trung điểm"
+    },
+    {
+        "text": "Trên Ox, cho điểm A (x = -15) và điểm B (x = 5). Điểm C nằm giữa A và B, chia đoạn AB theo tỉ lệ 3:2. Tìm tọa độ của điểm C.",
+        "category": "Chia đoạn theo tỉ lệ"
+    },
+    {
+        "text": "Trên Ox, cho điểm A (x = -10) và điểm B (x = 10). Điểm C là trung điểm của đoạn AB. Điểm D nằm giữa A và C, chia đoạn AC theo tỉ lệ 1:3. Tìm tọa độ của D.",
+        "category": "Phân đoạn tỉ lệ"
+    },
+    {
+        "text": "Trên Ox, điểm A có tọa độ x = -6 và điểm B có tọa độ x = 4. Tìm điểm C sao cho OC là trung bình cộng của OA và OB.",
+        "category": "Tính trung bình cộng tọa độ"
+    },
+    {
+        "text": "Trên Ox, các điểm A, B, C có tọa độ lần lượt là x = -9, x = 0, và x = 9. Điểm D là trung điểm của đoạn AB. Tính độ dài đoạn CD.",
+        "category": "Tính độ dài đoạn"
+    },
+    {
+        "text": "Cho ba điểm A, B, C trên trục Ox với tọa độ lần lượt là -8, 0 và 12. Kiểm tra xem tam giác ABC có cân hay không. Nếu có, chỉ rõ trục đối xứng.",
+        "category": "Kiểm tra tam giác cân"
+    },
+    {
+        "text": "Trên Ox, cho điểm A (x = -4), điểm B (x = 4), và điểm C (x = x0). Biết rằng khoảng cách từ A đến C gấp đôi khoảng cách từ B đến C. Tìm tọa độ của C.",
+        "category": "Khoảng cách theo tỷ lệ"
+    },
+    {
+        "text": "Cho ba điểm A, B, C trên Ox với tọa độ -5, 5 và 10. Điểm D nằm giữa A và C và chia đoạn AC theo tỉ lệ 1:2. Tính độ dài đoạn BD.",
+        "category": "Tìm độ dài đoạn"
+    },
+    {
+        "text": "Trên trục số Ox, cho điểm A (x = 0) và điểm B (x = 20). Tìm điểm C sao cho khoảng cách từ C đến A bằng 1/4 khoảng cách từ A đến B.",
+        "category": "Chia đoạn theo tỷ lệ đặc biệt"
+    },
+    {
+        "text": "Trên Ox, ba điểm A, B, C nằm lần lượt tại các tọa độ -6, 0, và 10. Kiểm tra xem điểm B có nằm trên đoạn AC không và tính độ dài đoạn AC.",
+        "category": "Kiểm tra điểm nằm trên đoạn"
+    },
+    {
+        "text": "Trên Ox, các điểm A, B, C nằm tại các tọa độ x = -8, x = -4, và x = 4. Tìm tọa độ điểm D sao cho D là trung điểm của đoạn BC.",
+        "category": "Tìm trung điểm"
+    },
+    {
+        "text": "Trên trục Ox, cho điểm A ở tọa độ x = -3, điểm B ở tọa độ x = 6. Điểm C nằm giữa A và B sao cho đoạn AC gấp đôi đoạn CB. Tìm tọa độ của C.",
+        "category": "Tỷ lệ đoạn thẳng"
+    },
+    {
+        "text": "Cho ba điểm A, B, C trên Ox với tọa độ lần lượt là -10, 0, và 15. Tính độ dài đoạn AB và BC, sau đó kiểm tra xem tổng hai đoạn này có bằng đoạn AC không.",
+        "category": "Kiểm tra quan hệ độ dài"
+    },
+    {
+        "text": "Trên Ox, các điểm A, B, C lần lượt có tọa độ -4, 2, và 8. Điểm D nằm trên đoạn AC, chia đoạn AC theo tỉ lệ 2:3. Tính tọa độ của D và khoảng cách từ D đến B.",
+        "category": "Tính khoảng cách và tỉ lệ"
+    },
+    {
+        "text": "Trên Ox, ba điểm A, B, C có tọa độ lần lượt là -12, -4, và 8. Tính chu vi tam giác ABC, sau đó kiểm tra xem tam giác này có phải là tam giác vuông không.",
+        "category": "Chu vi và tính chất tam giác"
+    },
+    {
+        "text": "Trên Ox, các điểm A, B, C nằm lần lượt tại x = -3, x = 3, và x = 12. Tìm tọa độ điểm D sao cho đoạn BD gấp đôi đoạn AB và điểm D nằm ngoài đoạn BC.",
+        "category": "Tìm tọa độ điểm ngoài đoạn"
+    },
+    {
+        "text": "Trên mặt phẳng tọa độ, cho các điểm A(2, 3), B(5, 7). Tính độ dài đoạn AB.",
+        "category": "Độ dài đoạn thẳng trong mặt phẳng"
+    },
+    {
+        "text": "Trên mặt phẳng tọa độ, các điểm A(-4, 1), B(4, 1), và C(0, -3) tạo thành một tam giác. Kiểm tra xem tam giác này có phải là tam giác vuông không.",
+        "category": "Kiểm tra tam giác vuông trong mặt phẳng"
+    },
+    {
+        "text": "Cho hình vuông ABCD với độ dài cạnh là 10 cm. Tính chu vi và diện tích hình vuông này.",
+        "category": "Chu vi và diện tích"
+    },
+    {
+        "text": "Một tam giác có ba cạnh lần lượt là 5 cm, 12 cm, và 13 cm. Kiểm tra xem đây có phải là tam giác vuông không, sau đó tính chu vi của tam giác.",
+        "category": "Tam giác vuông"
+    },
+    {
+        "text": "Cho hình chữ nhật có chiều dài 12 cm và chiều rộng 8 cm. Tính chu vi và diện tích của hình chữ nhật.",
+        "category": "Chu vi và diện tích"
+    },
+    {
+        "text": "Trên trục số, cho hai điểm A và B lần lượt tại x = -8 và x = 4. Tìm điểm C sao cho tổng khoảng cách từ C đến A và từ C đến B là nhỏ nhất.",
+        "category": "Ứng dụng thực tế (nguyên lý cực trị)"
+    },
+    {
+        "text": "Cho đường tròn có bán kính 7 cm. Tính chu vi và diện tích của đường tròn này.",
+        "category": "Chu vi và diện tích hình tròn"
+    },
+    {
+        "text": "Một hình tam giác có độ dài ba cạnh lần lượt là 6 cm, 8 cm, và 10 cm. Tính diện tích tam giác bằng cách sử dụng công thức Heron.",
+        "category": "Diện tích tam giác"
+    },
+    {
+        "text": "Cho hình thang ABCD có hai cạnh đáy là AB = 10 cm và CD = 6 cm, chiều cao h = 4 cm. Tính diện tích hình thang.",
+        "category": "Diện tích hình thang"
+    },
+    {
+        "text": "Một hồ bơi hình chữ nhật có chiều dài 25 m và chiều rộng 10 m. Nếu người ta lát gạch xung quanh hồ với chiều rộng là 1,5 m, thì diện tích phần gạch là bao nhiêu?",
+        "category": "Ứng dụng thực tế (diện tích gạch lát)"
+    },
+    {
+        "text": "Một hình tròn có chu vi là 31,4 cm. Tính bán kính và diện tích của hình tròn.",
+        "category": "Tính bán kính từ chu vi"
+    },
+    {
+        "text": "Một hình tam giác có độ dài hai cạnh là 7 cm và 24 cm, góc xen giữa hai cạnh đó là 90 độ. Tính diện tích của tam giác.",
+        "category": "Diện tích tam giác vuông"
+    },
+    {
+        "text": "Một hình bình hành có cạnh đáy dài 12 cm và chiều cao tương ứng là 6 cm. Tính diện tích của hình bình hành.",
+        "category": "Diện tích hình bình hành"
+    },
+    {
+        "text": "Cho đoạn thẳng AB có độ dài 10 cm. Điểm C chia đoạn thẳng AB theo tỉ lệ 1:4. Tính độ dài đoạn AC và CB.",
+        "category": "Tỉ lệ đoạn thẳng"
+    },
+    {
+        "text": "Một miếng đất hình thang có hai cạnh đáy dài 40 m và 30 m, chiều cao là 20 m. Tính diện tích miếng đất.",
+        "category": "Diện tích đất"
+    },
+    {
+        "text": "Cho một hình vuông lớn có cạnh dài 20 cm, bên trong là một hình vuông nhỏ có cạnh dài 10 cm. Tính diện tích phần hình vuông lớn trừ đi hình vuông nhỏ.",
+        "category": "Diện tích phần còn lại"
+    },
+    {
+        "text": "Một đoạn đường hình tròn có bán kính 50 m. Nếu người ta cần trải nhựa trên một đoạn dài bằng 1/4 chu vi đường tròn, tính độ dài đoạn đó.",
+        "category": "Chu vi ứng dụng thực tế"
+    },
+    {
+        "text": "Trên trục Ox, cho ba điểm A(x = -7), B(x = 3), C(x = 15). Điểm D nằm giữa A và B, chia đoạn AB theo tỉ lệ 3:2. Tính tọa độ của D và khoảng cách từ D đến C.",
+        "category": "Phân đoạn theo tỉ lệ"
+    },
+    {
+        "text": "Một tam giác vuông có độ dài hai cạnh góc vuông lần lượt là 9 cm và 12 cm. Tính độ dài cạnh huyền và diện tích tam giác.",
+        "category": "Tam giác vuông"
+    },
+    {
+        "text": "Cho một hình lập phương có cạnh dài 5 cm. Tính diện tích toàn phần và thể tích của hình lập phương.",
+        "category": "Hình học không gian"
+    },
+    {
+        "text": "Một hình hộp chữ nhật có các kích thước dài, rộng, cao lần lượt là 10 cm, 8 cm, và 6 cm. Tính diện tích toàn phần và thể tích của hình hộp chữ nhật.",
+        "category": "Hình học không gian"
+    },
+    {
+        "text": "Cho hai số nguyên dương a và b. Tìm bội chung nhỏ nhất (BCNN) và ước chung lớn nhất (ƯCLN) của a = 36 và b = 84.",
+        "category": "ƯCLN và BCNN"
+    },
+    {
+        "text": "Một đội thợ cần lát gạch một sân hình chữ nhật có chiều dài 20 m và chiều rộng 12 m. Nếu mỗi viên gạch có diện tích 0,25 m², cần bao nhiêu viên gạch để lát kín sân?",
+        "category": "Ứng dụng thực tế (diện tích lát gạch)"
+    },
+    {
+        "text": "Cho tam giác ABC có các góc A = 60°, B = 70°, C = 50°. Kéo dài các cạnh của tam giác để tạo thành tam giác ngoại tiếp. Tính các góc của tam giác ngoại tiếp.",
+        "category": "Tam giác ngoại tiếp"
+    },
+    {
+        "text": "Cho hình tròn có bán kính R = 10 cm. Một hình vuông được vẽ bên trong sao cho các đỉnh của nó nằm trên đường tròn. Tính diện tích của hình vuông này.",
+        "category": "Hình học (hình vuông nội tiếp)"
+    },
+    {
+        "text": "Một bồn chứa nước hình trụ có bán kính đáy là 5 m và chiều cao 10 m. Tính thể tích bồn chứa và diện tích toàn phần của bồn chứa.",
+        "category": "Hình học không gian"
+    },
+    {
+        "text": "Cho hình chóp tứ giác đều có cạnh đáy dài 6 cm và chiều cao 8 cm. Tính thể tích của hình chóp.",
+        "category": "Hình học không gian (hình chóp)"
+    },
+    {
+        "text": "Một quả bóng có hình cầu có bán kính 7 cm. Tính thể tích và diện tích bề mặt của quả bóng.",
+        "category": "Hình học không gian (hình cầu)"
+    },
+    {
+        "text": "Một chiếc thùng hình lập phương có cạnh dài 1 m. Nếu thùng được đổ đầy nước, tính khối lượng nước trong thùng (biết 1 m³ nước nặng 1000 kg).",
+        "category": "Hình học không gian (ứng dụng thực tế)"
+    },
+    {
+        "text": "Trên mặt phẳng tọa độ, cho điểm A(2, 4), điểm B(6, 8), và điểm C(4, 10). Chứng minh rằng tam giác ABC là tam giác cân.",
+        "category": "Tính chất tam giác"
+    },
+    {
+        "text": "Một miếng đất hình chữ nhật có diện tích 1200 m² và chiều rộng 20 m. Tính chiều dài miếng đất và chu vi của nó.",
+        "category": "Diện tích và chu vi"
+    },
+    {
+        "text": "Cho một hình bình hành có chiều dài đáy là 10 cm, chiều cao tương ứng là 6 cm, và một cạnh bên dài 8 cm. Tính chu vi và diện tích của hình bình hành.",
+        "category": "Chu vi và diện tích"
+    },
+    {
+        "text": "Một chiếc bể cá hình hộp chữ nhật có kích thước: chiều dài 1 m, chiều rộng 0,5 m, và chiều cao 0,6 m. Tính thể tích bể cá và lượng nước tối đa có thể chứa (đổi ra lít, biết 1 m³ = 1000 lít).",
+        "category": "Hình học không gian (ứng dụng thực tế)"
+    },
+    {
+        "text": "Cho hình thang ABCD có hai cạnh đáy AB = 10 cm và CD = 20 cm. Nếu khoảng cách giữa hai đáy là 5 cm, tính diện tích của hình thang.",
+        "category": "Diện tích hình thang"
+    },
+    {
+        "text": "Một hình trụ có đường kính đáy là 12 cm và chiều cao là 15 cm. Tính diện tích xung quanh và thể tích của hình trụ.",
+        "category": "Hình học không gian (hình trụ)"
+    },
+    {
+        "text": "Một hình tam giác đều có cạnh dài 10 cm. Tính chiều cao và diện tích của tam giác.",
+        "category": "Tam giác đều"
+    },
+    {
+        "text": "Trên trục số, cho điểm A ở x = -4 và điểm B ở x = 12. Tìm điểm M sao cho khoảng cách từ M đến A bằng khoảng cách từ M đến B.",
+        "category": "Tìm trung điểm"
+    },
+    {
+        "text": "Một tam giác vuông có độ dài hai cạnh góc vuông lần lượt là 9 cm và 12 cm. Tính độ dài cạnh huyền, sau đó kiểm tra xem tam giác này có phải là tam giác đều không.",
+        "category": "Kiểm tra tam giác"
+    },
+    {
+        "text": "Một hình tròn có bán kính 14 cm. Tính độ dài cung tròn ứng với góc ở tâm 60°.",
+        "category": "Hình tròn"
+    },
+    {
+        "text": "Một khối lăng trụ đứng có đáy là một tam giác đều cạnh 6 cm, chiều cao của lăng trụ là 10 cm. Tính thể tích của lăng trụ.",
+        "category": "Hình học không gian (lăng trụ)"
+    },
+    {
+        "text": "Một chiếc bánh hình trụ có đường kính đáy là 20 cm và chiều cao là 10 cm. Nếu bánh được chia thành 10 phần bằng nhau, tính thể tích của mỗi phần.",
+        "category": "Ứng dụng thực tế (thể tích chia đều)"
+    },
+    {
+        "text": "Trên trục số, cho ba điểm A(-8), B(4), và C(12). Tìm điểm D sao cho đoạn AD gấp đôi đoạn DB và điểm D nằm ngoài đoạn BC.",
+        "category": "Phân đoạn theo tỉ lệ"
+    },
+    {
+        "text": "Một chiếc cột điện hình nón có bán kính đáy là 2 m và chiều cao là 10 m. Tính thể tích cột điện.",
+        "category": "Hình học không gian (hình nón)"
+    },
+    {
+        "text": "Một khối cầu có bán kính là 10 cm. Nếu bán kính tăng thêm 20%, tính sự thay đổi về thể tích của khối cầu.",
+        "category": "Hình học không gian (thể tích khối cầu)"
+    },
+    {
+        "text": "Cho một hình chữ nhật ABCD có chu vi là 36 cm và diện tích là 80 cm². Tính chiều dài và chiều rộng của hình chữ nhật.",
+        "category": "Hình chữ nhật"
+    },
+    {
+        "text": "Một hình lăng trụ đứng có đáy là một tứ giác có các cạnh lần lượt là 5 cm, 6 cm, 7 cm, và 8 cm, đường chéo đáy là 10 cm, chiều cao lăng trụ là 15 cm. Tính thể tích của lăng trụ.",
+        "category": "Hình học không gian (lăng trụ)"
+    },
+    {
+        "text": "Cho hình tam giác ABC với A(1, 1), B(4, 5), và C(-2, 3). Tính diện tích tam giác ABC bằng công thức tọa độ.",
+        "category": "Diện tích tam giác trong mặt phẳng"
+    },
+    {
+        "text": "Một hình thang vuông có hai cạnh đáy lần lượt là 12 cm và 18 cm, chiều cao là 6 cm. Tính diện tích và chu vi hình thang.",
+        "category": "Hình thang vuông"
+    },
+    {
+        "text": "Cho hai số nguyên dương a và b. Tìm bội chung nhỏ nhất (BCNN) và ước chung lớn nhất (ƯCLN) của a = 36 và b = 84.",
+        "category": "ƯCLN và BCNN"
+    },
+    {
+        "text": "Một đội thợ cần lát gạch một sân hình chữ nhật có chiều dài 20 m và chiều rộng 12 m. Nếu mỗi viên gạch có diện tích 0,25 m², cần bao nhiêu viên gạch để lát kín sân?",
+        "category": "Ứng dụng thực tế (diện tích lát gạch)"
+    },
+    {
+        "text": "Cho tam giác ABC có các góc A = 60°, B = 70°, C = 50°. Kéo dài các cạnh của tam giác để tạo thành tam giác ngoại tiếp. Tính các góc của tam giác ngoại tiếp.",
+        "category": "Tam giác ngoại tiếp"
+    },
+    {
+        "text": "Cho hình tròn có bán kính R = 10 cm. Một hình vuông được vẽ bên trong sao cho các đỉnh của nó nằm trên đường tròn. Tính diện tích của hình vuông này.",
+        "category": "Hình học (hình vuông nội tiếp)"
+    },
+    {
+        "text": "Một bồn chứa nước hình trụ có bán kính đáy là 5 m và chiều cao 10 m. Tính thể tích bồn chứa và diện tích toàn phần của bồn chứa.",
+        "category": "Hình học không gian"
+    },
+    {
+        "text": "Cho hình chóp tứ giác đều có cạnh đáy dài 6 cm và chiều cao 8 cm. Tính thể tích của hình chóp.",
+        "category": "Hình học không gian (hình chóp)"
+    },
+    {
+        "text": "Một quả bóng có hình cầu có bán kính 7 cm. Tính thể tích và diện tích bề mặt của quả bóng.",
+        "category": "Hình học không gian (hình cầu)"
+    },
+    {
+        "text": "Một chiếc thùng hình lập phương có cạnh dài 1 m. Nếu thùng được đổ đầy nước, tính khối lượng nước trong thùng (biết 1 m³ nước nặng 1000 kg).",
+        "category": "Hình học không gian (ứng dụng thực tế)"
+    },
+    {
+        "text": "Trên mặt phẳng tọa độ, cho điểm A(2, 4), điểm B(6, 8), và điểm C(4, 10). Chứng minh rằng tam giác ABC là tam giác cân.",
+        "category": "Tính chất tam giác"
+    },
+    {
+        "text": "Một miếng đất hình chữ nhật có diện tích 1200 m² và chiều rộng 20 m. Tính chiều dài miếng đất và chu vi của nó.",
+        "category": "Diện tích và chu vi"
+    },
+    {
+        "text": "Cho một hình bình hành có chiều dài đáy là 10 cm, chiều cao tương ứng là 6 cm, và một cạnh bên dài 8 cm. Tính chu vi và diện tích của hình bình hành.",
+        "category": "Chu vi và diện tích"
+    },
+    {
+        "text": "Một chiếc bể cá hình hộp chữ nhật có kích thước: chiều dài 1 m, chiều rộng 0,5 m, và chiều cao 0,6 m. Tính thể tích bể cá và lượng nước tối đa có thể chứa (đổi ra lít, biết 1 m³ = 1000 lít).",
+        "category": "Hình học không gian (ứng dụng thực tế)"
+    },
+    {
+        "text": "Cho hình thang ABCD có hai cạnh đáy AB = 10 cm và CD = 20 cm. Nếu khoảng cách giữa hai đáy là 5 cm, tính diện tích của hình thang.",
+        "category": "Diện tích hình thang"
+    },
+    {
+        "text": "Một hình trụ có đường kính đáy là 12 cm và chiều cao là 15 cm. Tính diện tích xung quanh và thể tích của hình trụ.",
+        "category": "Hình học không gian (hình trụ)"
+    },
+    {
+        "text": "Một hình tam giác đều có cạnh dài 10 cm. Tính chiều cao và diện tích của tam giác.",
+        "category": "Tam giác đều"
+    },
+    {
+        "text": "Trên trục số, cho điểm A ở x = -4 và điểm B ở x = 12. Tìm điểm M sao cho khoảng cách từ M đến A bằng khoảng cách từ M đến B.",
+        "category": "Tìm trung điểm"
+    },
+    {
+        "text": "Một tam giác vuông có độ dài hai cạnh góc vuông lần lượt là 9 cm và 12 cm. Tính độ dài cạnh huyền, sau đó kiểm tra xem tam giác này có phải là tam giác đều không.",
+        "category": "Kiểm tra tam giác"
+    },
+    {
+        "text": "Một hình tròn có bán kính 14 cm. Tính độ dài cung tròn ứng với góc ở tâm 60°.",
+        "category": "Hình tròn"
+    },
+    {
+        "text": "Một khối lăng trụ đứng có đáy là một tam giác đều cạnh 6 cm, chiều cao của lăng trụ là 10 cm. Tính thể tích của lăng trụ.",
+        "category": "Hình học không gian (lăng trụ)"
+    },
+    {
+        "text": "Một chiếc bánh hình trụ có đường kính đáy là 20 cm và chiều cao là 10 cm. Nếu bánh được chia thành 10 phần bằng nhau, tính thể tích của mỗi phần.",
+        "category": "Ứng dụng thực tế (thể tích chia đều)"
+    },
+    {
+        "text": "Trên trục số, cho ba điểm A(-8), B(4), và C(12). Tìm điểm D sao cho đoạn AD gấp đôi đoạn DB và điểm D nằm ngoài đoạn BC.",
+        "category": "Phân đoạn theo tỉ lệ"
+    },
+    {
+        "text": "Một chiếc cột điện hình nón có bán kính đáy là 2 m và chiều cao là 10 m. Tính thể tích cột điện.",
+        "category": "Hình học không gian (hình nón)"
+    },
+    {
+        "text": "Một khối cầu có bán kính là 10 cm. Nếu bán kính tăng thêm 20%, tính sự thay đổi về thể tích của khối cầu.",
+        "category": "Hình học không gian (thể tích khối cầu)"
+    },
+    {
+        "text": "Cho một hình chữ nhật ABCD có chu vi là 36 cm và diện tích là 80 cm². Tính chiều dài và chiều rộng của hình chữ nhật.",
+        "category": "Hình chữ nhật"
+    },
+    {
+        "text": "Một hình lăng trụ đứng có đáy là một tứ giác có các cạnh lần lượt là 5 cm, 6 cm, 7 cm, và 8 cm, đường chéo đáy là 10 cm, chiều cao lăng trụ là 15 cm. Tính thể tích của lăng trụ.",
+        "category": "Hình học không gian (lăng trụ)"
+    },
+    {
+        "text": "Cho hình tam giác ABC với A(1, 1), B(4, 5), và C(-2, 3). Tính diện tích tam giác ABC bằng công thức tọa độ.",
+        "category": "Diện tích tam giác trong mặt phẳng"
+    },
+    {
+        "text": "Một hình thang vuông có hai cạnh đáy lần lượt là 12 cm và 18 cm, chiều cao là 6 cm. Tính diện tích và chu vi hình thang.",
+        "category": "Hình thang vuông"
     }
-    
-
 ]
